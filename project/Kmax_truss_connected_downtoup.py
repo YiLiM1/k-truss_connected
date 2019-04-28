@@ -1,5 +1,5 @@
+# -*- coding: utf-8 -*-
 import networkx as nx
-import k_truss_connected as kcct
 import matplotlib.pyplot as plt
 import read_file
 G=[]
