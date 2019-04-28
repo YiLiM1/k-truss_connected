@@ -1,0 +1,3561 @@
+Keqian Li*Hanwen Zha
+Keqian Li*Yu Su 0001
+Keqian Li*Xifeng Yan
+Hanwen Zha*Yu Su 0001
+Hanwen Zha*Xifeng Yan
+Yu Su 0001*Xifeng Yan
+Xifeng Yan*Fangqiu Han
+Xifeng Yan*Shulong Tan
+Xifeng Yan*Huan Sun
+Xifeng Yan*Mudhakar Srivatsa
+Xifeng Yan*am
+Xifeng Yan*Jiawei Han 0001
+Sanjay Chawla*Yan Liu
+Ee-Peng Lim*Feida Zhu
+Ee-Peng Lim*David Lo 0001
+Ee-Peng Lim*Roy Ka-Wei Lee
+Ee-Peng Lim*Tuan-Anh Hoang
+Ee-Peng Lim*Xin Mu
+Ee-Peng Lim*Zhi-Hua Zhou
+Ee-Peng Lim*Richard Jayadi Oentaryo
+Ee-Peng Lim*Philips Kokoh Prasetyo
+Ee-Peng Lim*Xavier Jayaraj Siddarth Ashok
+Feida Zhu*David Lo 0001
+Feida Zhu*Xin Mu
+Feida Zhu*Zhi-Hua Zhou
+Feida Zhu*Minghui Qiu
+Feida Zhu*Enhong Chen
+Feida Zhu*Qi Liu 0003
+Feida Zhu*Sein Minn
+Feida Zhu*Michel C. Desmarais
+Roel Bertens*Jilles Vreeken
+Roel Bertens*Arno Siebes
+Jilles Vreeken*Arno Siebes
+Jilles Vreeken*Hoang Vu Nguyen
+Jilles Vreeken*B. Aditya Prakash
+Jilles Vreeken*Kailash Budhathoki
+Jilles Vreeken*Panagiotis Mandros
+Jilles Vreeken*Danai Koutra
+Jilles Vreeken*Mario Boley
+Bin Li 0015*Wei Wu 0011
+Bin Li 0015*Ling Chen 0006
+Bin Li 0015*Chengqi Zhang
+Xingquan Zhu*Jia Wu
+Xingquan Zhu*Zhibin Hong
+Xingquan Zhu*Shirui Pan
+Xingquan Zhu*Chengqi Zhang
+Xingquan Zhu*Zhihua Cai
+Xingquan Zhu*Ting Guo
+Xingquan Zhu*Daokun Zhang
+Xingquan Zhu*Jie Yin
+Stratis Ioannidis*Smriti Bhagat
+Quan Zheng 0001*David B. Skillicorn
+David B. Skillicorn*Nasser Alsadhan
+Wei Wang 0010*Wei Cheng
+Wei Wang 0010*Wenchao Yu
+Johannes Schneider*Michail Vlachos
+Chih-Jen Lin*Wei-Lin Chiang
+Chih-Jen Lin*Ching-Pei Lee
+Chih-Jen Lin*Cheng-Hao Tsai
+Chih-Jen Lin*Chieh-Yen Lin
+Chih-Jen Lin*Mu-Chu Lee
+Chih-Jen Lin*Yong Zhuang
+Chih-Jen Lin*Wei-Sheng Chin
+Chih-Jen Lin*Yu-Chin Juan
+nnemann*Christos Faloutsos
+nnemann*Bryan Hooi
+nnemann*Neil Shah
+nnemann*Alex Beutel
+nnemann*Leman Akoglu
+nnemann*Mohit Kumar
+nnemann*Disha Makhija
+nnemann*Aleksandar Bojchevski
+nnemann*tter
+nnemann*Michael R. Berthold
+Hau Chan*Leman Akoglu
+Leman Akoglu*Bryan Perozzi
+Leman Akoglu*Bryan Hooi
+Leman Akoglu*Neil Shah
+Leman Akoglu*Alex Beutel
+Leman Akoglu*Mohit Kumar
+Leman Akoglu*Disha Makhija
+Leman Akoglu*Christos Faloutsos
+Leman Akoglu*Shebuti Rayana
+Leman Akoglu*Emaad A. Manzoor
+Hanghang Tong*Liangyue Li
+Hanghang Tong*Yanghua Xiao
+Hanghang Tong*Wei Fan 0001
+Hanghang Tong*Chen Chen 0022
+Hanghang Tong*Yongjie Cai
+Hanghang Tong*Ping Ji
+Hanghang Tong*Nadya Bliss
+Hanghang Tong*Jingrui He
+Hanghang Tong*Si Zhang
+Hanghang Tong*Dawei Zhou
+Hanghang Tong*Mehmet Yigit Yildirim
+Hanghang Tong*Scott Alcorn
+Hanghang Tong*Hasan Davulcu
+Hanghang Tong*Jie Tang 0001
+Hanghang Tong*Nan Cao
+Hanghang Tong*Yuan Yao 0001
+Hanghang Tong*Jian Lu 0001
+Hanghang Tong*Boxin Du
+Hanghang Tong*Jingchao Ni
+Hanghang Tong*Xiang Zhang 0001
+Hanghang Tong*Qing He
+Hanghang Tong*Lei Ying
+Hanghang Tong*Feng Xu 0007
+Hanghang Tong*Jiejun Xu
+Hanghang Tong*Lei Shi
+Sunil Kumar Gupta 0001*Santu Rana
+Sunil Kumar Gupta 0001*Dinh Q. Phung
+Sunil Kumar Gupta 0001*Svetha Venkatesh
+Sunil Kumar Gupta 0001*Thanh Dai Nguyen
+Sunil Kumar Gupta 0001*Cheng Li 0003
+Santu Rana*Dinh Q. Phung
+Santu Rana*Svetha Venkatesh
+Santu Rana*Thanh Dai Nguyen
+Santu Rana*Sunil Gupta
+Santu Rana*Haripriya Harikumar
+Santu Rana*Thin Nguyen
+Santu Rana*Ramachandra Kaimal
+Santu Rana*Cheng Li 0003
+Santu Rana*Vu Nguyen 0001
+Dinh Q. Phung*Svetha Venkatesh
+Dinh Q. Phung*Wei Luo
+Dinh Q. Phung*Tu Dinh Nguyen
+Dinh Q. Phung*Khanh Nguyen
+Dinh Q. Phung*Trung Le
+Dinh Q. Phung*Vu Nguyen 0001
+Dinh Q. Phung*Hung Hai Bui
+Dinh Q. Phung*Truyen Tran 0001
+Dinh Q. Phung*Cheng Li 0003
+Svetha Venkatesh*Dang Nguyen 0002
+Svetha Venkatesh*Wei Luo
+Svetha Venkatesh*Tu Dinh Nguyen
+Svetha Venkatesh*Hung Le
+Svetha Venkatesh*Truyen Tran 0001
+Svetha Venkatesh*Vu Nguyen 0001
+Svetha Venkatesh*Thanh Dai Nguyen
+Svetha Venkatesh*Sunil Gupta
+Svetha Venkatesh*Haripriya Harikumar
+Svetha Venkatesh*Thin Nguyen
+Svetha Venkatesh*Ramachandra Kaimal
+Svetha Venkatesh*Hung Hai Bui
+Svetha Venkatesh*Cheng Li 0003
+Svetha Venkatesh*Trung Le
+Liangyue Li*Wei Fan 0001
+Liangyue Li*Jie Tang 0001
+Yanghua Xiao*Deqing Yang
+Wei Fan 0001*Qiang Yang 0001
+Wei Fan 0001*Sihong Xie
+Wei Fan 0001*Qingbo Hu
+Wei Fan 0001*Jing Gao
+Wei Fan 0001*Philip S. Yu
+Wei Fan 0001*Yongjie Cai
+Wei Fan 0001*Ping Ji
+Wei Fan 0001*Yaliang Li
+Wei Fan 0001*Deepak S. Turaga
+Wei Fan 0001*Andrea Edwards
+Wei Fan 0001*Kun Zhang
+Wei Fan 0001*Ke Wu
+Wei Fan 0001*Jie Tang 0001
+Wei Fan 0001*Albert Bifet
+Wei Fan 0001*Jingchao Ni
+Wei Fan 0001*Xiang Zhang 0001
+Wei Fan 0001*Cheng He
+Wei Fan 0001*Jianfeng Qian
+Wei Fan 0001*Nan Du
+Wei Fan 0001*Qi Li 0012
+Wei Fan 0001*Bo Zhao 0001
+Wei Fan 0001*Jiawei Han 0001
+Wei Fan 0001*Chenwei Zhang
+Wei Fan 0001*Chaochun Liu
+Wei Fan 0001*Huan Sun
+Ximing Li*Jihong Ouyang
+Nikolaj Tatti*Polina Rozenshtein
+Nikolaj Tatti*Aristides Gionis
+Nicholas Johnson 0001*Arindam Banerjee
+Arindam Banerjee*Konstantina Christakopoulou
+Qiming Diao*Jing Jiang 0001
+Jing Jiang 0001*Minghui Qiu
+Jing Jiang 0001*Liu Yang 0005
+Yashu Liu 0001*Jieping Ye
+Shuang Qiu*Jieping Ye
+Ping Zhang 0016*Fei Wang 0001
+Pinghua Gong*Jieping Ye
+Pinghua Gong*Jiayu Zhou
+Fei Wang 0001*Jieping Ye
+Fei Wang 0001*Cao Xiao
+Fei Wang 0001*Ioakeim Perros
+Fei Wang 0001*Richard W. Vuduc
+Fei Wang 0001*Jimeng Sun
+Fei Wang 0001*Jianying Hu
+Fei Wang 0001*Xiang Wang 0001
+Fei Wang 0001*Jun Wang
+Fei Wang 0001*Buyue Qian
+Fei Wang 0001*Ian Davidson
+Fei Wang 0001*Peng Cui 0001
+Fei Wang 0001*Wenwu Zhu 0001
+Fei Wang 0001*Shiqiang Yang
+Fei Wang 0001*Jiayu Zhou
+Fei Wang 0001*Wei Zhang 0022
+Jieping Ye*Zhi Nie
+Jieping Ye*Binbin Lin
+Jieping Ye*Naren Ramakrishnan
+Jieping Ye*Wei Fan
+Jieping Ye*Yan Li
+Jieping Ye*Tao Yang 0016
+Jieping Ye*Jiayu Zhou
+Jieping Ye*Sethuraman Panchanathan
+Jieping Ye*Shuiwang Ji
+Jieping Ye*Jie Wang 0005
+Jieping Ye*Tingjin Luo
+Jieping Ye*Guangtao Wang
+Jieping Ye*Qian Sun
+Jieping Ye*Zheng Wang
+Jieping Ye*Kun Fu
+Jieping Ye*Kai Zhang 0001
+Jieping Ye*Zhengzhang Chen
+Jieping Ye*Haifeng Chen
+Jieping Ye*Ian Davidson
+Jieping Ye*Liang Zhao 0002
+Jieping Ye*Feng Chen 0001
+Jieping Ye*Chang-Tien Lu
+Jieping Ye*Chandan K. Reddy
+Jieping Ye*Lu Wang 0004
+Kang Li 0003*Jing Gao
+Kang Li 0003*Suxin Guo
+Kang Li 0003*Nan Du
+Kang Li 0003*Aidong Zhang
+Kang Li 0003*Xiaoyi Li
+Jing Gao*Suxin Guo
+Jing Gao*Nan Du
+Jing Gao*Aidong Zhang
+Jing Gao*Sihong Xie
+Jing Gao*Philip S. Yu
+Jing Gao*Houping Xiao
+Jing Gao*Long H. Vu
+Jing Gao*Deepak S. Turaga
+Jing Gao*Yaliang Li
+Jing Gao*Fei Wang
+Jing Gao*Chenglin Miao
+Jing Gao*Qiuling Suo
+Jing Gao*Xiaoyi Li
+Jing Gao*Hui Li
+Jing Gao*Lance M. Kaplan
+Jing Gao*Jiawei Han 0001
+Jing Gao*Lu Su
+Jing Gao*Qi Li 0012
+Jing Gao*Fenglong Ma
+Jing Gao*Shi Zhi
+Jing Gao*Bo Zhao 0001
+Jing Gao*Heng Ji
+Jing Gao*Yaqing Wang
+Jing Gao*Guangxu Xun
+Jing Gao*Quanzeng You
+Jing Gao*Jing Zhou
+Suxin Guo*Nan Du
+Suxin Guo*Aidong Zhang
+Nan Du*Aidong Zhang
+Nan Du*Xiaoyi Li
+Nan Du*Le Song
+Nan Du*Chenwei Zhang
+Nan Du*Yaliang Li
+Nan Du*Chaochun Liu
+Nan Du*Huan Sun
+Aidong Zhang*Mengdi Huai
+Aidong Zhang*Chenglin Miao
+Aidong Zhang*Qiuling Suo
+Aidong Zhang*Yaliang Li
+Aidong Zhang*Xiaoyi Li
+Aidong Zhang*Hui Li
+Aidong Zhang*Lu Su
+Aidong Zhang*Qi Li 0012
+Aidong Zhang*Fenglong Ma
+Aidong Zhang*Houping Xiao
+Aidong Zhang*Guangxu Xun
+Aidong Zhang*Kishlay Jha
+Aidong Zhang*Yaqing Wang
+Aidong Zhang*Vishrawas Gopalakrishnan
+Aidong Zhang*Ye Yuan 0006
+Aidong Zhang*Kebin Jia
+Liang Wu 0006*Jundong Li
+Liang Wu 0006*Huan Liu 0001
+Liang Wu 0006*Xia Hu
+Jundong Li*Huan Liu 0001
+Jundong Li*Xia Hu
+Jundong Li*Xiao Huang
+Jundong Li*Huan Liu
+Jundong Li*Kewei Cheng
+Fred Morstatter*Huan Liu 0001
+Huan Liu 0001*Xia Hu
+Huan Liu 0001*Suhang Wang
+Huan Liu 0001*Jiliang Tang
+Huan Liu 0001*Charu C. Aggarwal
+Huan Liu 0001*Yi Chang
+Huan Liu 0001*Reza Zafarani
+Huan Liu 0001*Ghazaleh Beigi
+Huan Liu 0001*Yilin Wang
+Huan Liu 0001*Suhas Ranganath
+Huan Liu 0001*Huiji Gao
+Huan Liu 0001*Yu Cheng 0001
+Huan Liu 0001*Ankit Agrawal
+Huan Liu 0001*Alok N. Choudhary
+Huan Liu 0001*Kewei Cheng
+Huan Liu 0001*Kai Shu
+Jia Wu*Zhibin Hong
+Jia Wu*Shirui Pan
+Jia Wu*Chengqi Zhang
+Jia Wu*Zhihua Cai
+Zhibin Hong*Shirui Pan
+Zhibin Hong*Chengqi Zhang
+Zhibin Hong*Zhihua Cai
+Shirui Pan*Chengqi Zhang
+Shirui Pan*Zhihua Cai
+Chengqi Zhang*Zhihua Cai
+Chengqi Zhang*Wei Wu 0011
+Chengqi Zhang*Ling Chen 0006
+Chengqi Zhang*Daokun Zhang
+Chengqi Zhang*Jie Yin
+Chengqi Zhang*Qin Zhang 0011
+Chengqi Zhang*Guodong Long
+Chengqi Zhang*Peng Zhang 0001
+Zhihua Cai*Xinwei Jiang
+Zhihua Cai*Junbin Gao
+rgy J. Simon*Bonnie L. Westra
+rgy J. Simon*Michael Steinbach
+rgy J. Simon*Vipin Kumar
+Bonnie L. Westra*Michael Steinbach
+Bonnie L. Westra*Vipin Kumar
+Michael Steinbach*Vipin Kumar
+Vipin Kumar*Anuj Karpatne
+Vipin Kumar*Ankush Khandelwal
+Vipin Kumar*Xi C. Chen
+Vipin Kumar*Snigdhansu Chatterjee
+Vipin Kumar*James H. Faghmous
+Vipin Kumar*Guruprasad Nayak
+Vipin Kumar*Varun Mithal
+Vipin Kumar*Xiaowei Jia
+Vipin Kumar*James Gerber
+Vipin Kumar*Kimberly Carlson
+Vipin Kumar*Paul C. West
+Vipin Kumar*Gowtham Atluri
+Manish Gupta 0001*Vasudeva Varma
+Jiawei Han 0001*Chi Wang 0001
+Jiawei Han 0001*Xiang Ren
+Jiawei Han 0001*Jialu Liu
+Jiawei Han 0001*Quanquan Gu
+Jiawei Han 0001*Charu C. Aggarwal
+Jiawei Han 0001*Lance M. Kaplan
+Jiawei Han 0001*Jingbo Shang
+Jiawei Han 0001*Jian Peng 0001
+Jiawei Han 0001*Wenzhu Tong
+Jiawei Han 0001*Mengting Wan
+Jiawei Han 0001*Yu Shi
+Jiawei Han 0001*Huan Gui
+Jiawei Han 0001*Qi Zhu
+Jiawei Han 0001*Chenguang Wang
+Jiawei Han 0001*Yizhou Sun
+Jiawei Han 0001*Yanglei Song
+Jiawei Han 0001*Yangqiu Song
+Jiawei Han 0001*Lidan Wang
+Jiawei Han 0001*Ming Zhang 0004
+Jiawei Han 0001*Honglei Zhuang
+Jiawei Han 0001*Chao Zhang 0014
+Jiawei Han 0001*Xiuli Ma
+Jiawei Han 0001*Shi Zhi
+Jiawei Han 0001*Bo Zhao 0001
+Jiawei Han 0001*Heng Ji
+Jiawei Han 0001*Qi Li 0012
+Jiawei Han 0001*Meng Jiang 0001
+Jiawei Han 0001*Meng Qu
+Jiawei Han 0001*Timothy P. Hanratty
+Jiawei Han 0001*Carl Yang
+Jiawei Han 0001*Quan Yuan 0001
+Jiawei Han 0001*am
+Jiawei Han 0001*Ahmed El-Kishky
+Jiawei Han 0001*Dan Roth
+Jiawei Han 0001*Jiaming Shen
+Jiawei Han 0001*Zeqiu Wu
+Jiawei Han 0001*Dongming Lei
+Jiawei Han 0001*Brian M. Sadler
+Jiawei Han 0001*Fangbo Tao
+Jiawei Han 0001*Xiusi Chen
+Jiawei Han 0001*Tim Hanratty
+Jiawei Han 0001*Clare R. Voss
+Jiawei Han 0001*Xiao Yu
+Jiawei Han 0001*Urvashi Khandelwal
+Jiawei Han 0001*Yaliang Li
+Jiawei Han 0001*Lu Su
+Jiawei Han 0001*Brandon Norick
+Jiawei Han 0001*Jingjing Wang
+Jiawei Han 0001*Min Li
+rg Sander 0001*Ricardo J. G. B. Campello
+Rami Al-Rfou'*Bryan Perozzi
+Rami Al-Rfou'*Steven Skiena
+Bryan Perozzi*Steven Skiena
+Jing Lu*Peilin Zhao
+Jing Lu*Steven C. H. Hoi
+Peilin Zhao*Steven C. H. Hoi
+Peilin Zhao*Peng Yang
+Peilin Zhao*Xiaoli Li 0001
+Peilin Zhao*Jun Zhou
+Peilin Zhao*Xiaolong Li
+Peilin Zhao*Chaochao Chen
+Peilin Zhao*Longfei Li
+Peilin Zhao*Xinxing Yang
+Peilin Zhao*Yi Ding
+Peilin Zhao*Min Wu 0008
+Peilin Zhao*Chunyan Miao
+Peilin Zhao*Chi Zhang 0007
+Peilin Zhao*Shuji Hao
+Steven C. H. Hoi*Doyen Sahoo
+Steven C. H. Hoi*Ning Chen
+Steven C. H. Hoi*Shaohua Li
+Steven C. H. Hoi*Xiaokui Xiao
+Steven C. H. Hoi*Chunyan Miao
+Dennis Wei*Karthikeyan Natesan Ramamurthy
+inen*Geoffrey I. Webb
+inen*Mirka Saarela
+Geoffrey I. Webb*ois Petitjean
+Geoffrey I. Webb*Nayyar A. Zaidi
+Geoffrey I. Webb*Chang Wei Tan
+Geoffrey I. Webb*Germain Forestier
+Geoffrey I. Webb*Eamonn J. Keogh
+Liang Zhao 0002*Feng Chen 0001
+Liang Zhao 0002*Chang-Tien Lu
+Liang Zhao 0002*Naren Ramakrishnan
+Liang Zhao 0002*Sathappan Muthiah
+Liang Zhao 0002*Patrick Butler
+Liang Zhao 0002*Rupinder Paul Khandpur
+Liang Zhao 0002*Parang Saraf
+Liang Zhao 0002*Nathan Self
+Liang Zhao 0002*Jose Cadena
+Liang Zhao 0002*Anil Vullikanti
+Liang Zhao 0002*Achla Marathe
+Liang Zhao 0002*Kristen Maria Summers
+Liang Zhao 0002*Graham Katz
+Liang Zhao 0002*Andy Doyle
+Liang Zhao 0002*Jaime Arredondo
+Liang Zhao 0002*David Mares
+Liang Zhao 0002*Wei Wang 0064
+Liang Zhao 0002*Xuchao Zhang
+Liang Zhao 0002*Arnold P. Boedihardjo
+Feng Chen 0001*Chang-Tien Lu
+Feng Chen 0001*Naren Ramakrishnan
+Feng Chen 0001*Fang Jin
+Feng Chen 0001*Rupinder Paul Khandpur
+Feng Chen 0001*Jose Cadena
+Feng Chen 0001*Anil Vullikanti
+Feng Chen 0001*Nathan Self
+Feng Chen 0001*Wei Wang 0064
+Feng Chen 0001*Baojian Zhou
+Chang-Tien Lu*Naren Ramakrishnan
+Chang-Tien Lu*Rupinder Paul Khandpur
+Chang-Tien Lu*Sathappan Muthiah
+Chang-Tien Lu*Patrick Butler
+Chang-Tien Lu*Parang Saraf
+Chang-Tien Lu*Nathan Self
+Chang-Tien Lu*Jose Cadena
+Chang-Tien Lu*Anil Vullikanti
+Chang-Tien Lu*Achla Marathe
+Chang-Tien Lu*Kristen Maria Summers
+Chang-Tien Lu*Graham Katz
+Chang-Tien Lu*Andy Doyle
+Chang-Tien Lu*Jaime Arredondo
+Chang-Tien Lu*David Mares
+Chang-Tien Lu*Wei Wang 0064
+Chang-Tien Lu*Xuchao Zhang
+Chang-Tien Lu*Arnold P. Boedihardjo
+Chang-Tien Lu*Zhiqian Chen
+Naren Ramakrishnan*Saurav Ghosh
+Naren Ramakrishnan*Sumiko R. Mekaru
+Naren Ramakrishnan*Elaine O. Nsoesie
+Naren Ramakrishnan*John S. Brownstein
+Naren Ramakrishnan*Lise Getoor
+Naren Ramakrishnan*Fang Jin
+Naren Ramakrishnan*Rupinder Paul Khandpur
+Naren Ramakrishnan*Prithwish Chakraborty
+Naren Ramakrishnan*Bryan L. Lewis
+Naren Ramakrishnan*Jiangzhuo Chen
+Naren Ramakrishnan*Patrick Butler
+Naren Ramakrishnan*Madhav V. Marathe
+Naren Ramakrishnan*Yue Ning
+Naren Ramakrishnan*Huzefa Rangwala
+Naren Ramakrishnan*B. Aditya Prakash
+Naren Ramakrishnan*Parang Saraf
+Naren Ramakrishnan*Sathappan Muthiah
+Naren Ramakrishnan*Nathan Self
+Naren Ramakrishnan*Jose Cadena
+Naren Ramakrishnan*Anil Vullikanti
+Naren Ramakrishnan*Achla Marathe
+Naren Ramakrishnan*Kristen Maria Summers
+Naren Ramakrishnan*Graham Katz
+Naren Ramakrishnan*Andy Doyle
+Naren Ramakrishnan*Jaime Arredondo
+Naren Ramakrishnan*David Mares
+Naren Ramakrishnan*Wei Wang 0064
+Naren Ramakrishnan*Mohammad Raihanul Islam
+Naren Ramakrishnan*Bijaya Adhikari
+Naren Ramakrishnan*Yao Zhang
+Erheng Zhong*Qiang Yang 0001
+Erheng Zhong*Ben Tan
+Qiang Yang 0001*Ben Tan
+Qiang Yang 0001*Ying Wei
+Qiang Yang 0001*Yangqiu Song
+Qiang Yang 0001*Albert Bifet
+Qiang Yang 0001*Philip S. Yu
+Bijaya Adhikari*B. Aditya Prakash
+Bijaya Adhikari*Yao Zhang
+Bijaya Adhikari*Aditya Bharadwaj
+B. Aditya Prakash*Anil Vullikanti
+B. Aditya Prakash*Ahsanur Rahman
+B. Aditya Prakash*Steve T. K. Jan
+B. Aditya Prakash*Hyunju Kim
+B. Aditya Prakash*T. M. Murali
+B. Aditya Prakash*Abhijin Adiga
+B. Aditya Prakash*Yao Zhang
+B. Aditya Prakash*Aditya Bharadwaj
+B. Aditya Prakash*Chanhyun Kang
+B. Aditya Prakash*V. S. Subrahmanian
+B. Aditya Prakash*Mohammad Raihanul Islam
+B. Aditya Prakash*Sorour E. Amiri
+B. Aditya Prakash*Liangzhe Chen
+Anil Vullikanti*Jose Cadena
+Anil Vullikanti*Sathappan Muthiah
+Anil Vullikanti*Patrick Butler
+Anil Vullikanti*Rupinder Paul Khandpur
+Anil Vullikanti*Parang Saraf
+Anil Vullikanti*Nathan Self
+Anil Vullikanti*Achla Marathe
+Anil Vullikanti*Kristen Maria Summers
+Anil Vullikanti*Graham Katz
+Anil Vullikanti*Andy Doyle
+Anil Vullikanti*Jaime Arredondo
+Anil Vullikanti*David Mares
+Anil Vullikanti*Yao Zhang
+Xia Hu*Jiliang Tang
+Xia Hu*Huiji Gao
+Xia Hu*Xiao Huang
+Xia Hu*Qingquan Song
+Xia Hu*Mengnan Du
+Xia Hu*Ninghao Liu
+Xia Hu*Suhas Ranganath
+Xia Hu*Suhang Wang
+Aghiles Salah*Mohamed Nadif
+Mohamed Nadif*Kais Allab
+Mohamed Nadif*Lazhar Labiod
+Ziqi Liu*Qinghua Zheng
+Ziqi Liu*Fei Wang
+Qinghua Zheng*Fei Wang
+Qinghua Zheng*Changchang Yin
+Qinghua Zheng*Buyue Qian
+Qinghua Zheng*Shilei Cao
+Qinghua Zheng*Xiaoyu Li
+Qinghua Zheng*Jishang Wei
+Qinghua Zheng*Ian Davidson
+Fei Wang*Houping Xiao
+Fei Wang*Yuan Zuo
+Fei Wang*Junjie Wu
+Fei Wang*Hui Zhang 0028
+Fei Wang*Hao Lin
+Fei Wang*Ke Xu 0001
+Fei Wang*Jiayu Zhou
+Bo Li*Kun Kuang
+Bo Li*Peng Cui 0001
+Mahmudur Rahman*Bogdan Carbunar
+Pei Yang*Jingrui He
+Jingrui He*Yan Liu
+Jingrui He*Yada Zhu
+Jingrui He*Jianbo Li
+Jingrui He*Arun Reddy Nelakurthi
+Jingrui He*Nadya Bliss
+Jingrui He*Si Zhang
+Jingrui He*Dawei Zhou
+Jingrui He*Mehmet Yigit Yildirim
+Jingrui He*Scott Alcorn
+Jingrui He*Hasan Davulcu
+Jingrui He*Yao Zhou
+Jingrui He*Hongxia Yang
+David C. Kale*Yan Liu
+David C. Kale*Zhengping Che
+Yan Liu*Zhengping Che
+ois Petitjean*Nayyar A. Zaidi
+ois Petitjean*Chang Wei Tan
+ois Petitjean*Germain Forestier
+ois Petitjean*Eamonn J. Keogh
+Ruihua Cheng*Zhi Wei
+Zhi Wei*Kai Zhang 0001
+Zhi Wei*Fei Tan
+Zhi Wei*Kuang Du
+Zhi Wei*Haoran Liu
+Zhi Wei*Chenguang Qin
+Zhi Wei*Chaoran Cheng
+Zhi Wei*Jie Zhang
+Zhi Wei*Zhenyu Yan
+Kai Zhang 0001*Zhengzhang Chen
+Kai Zhang 0001*Guofei Jiang
+Kai Zhang 0001*Jie Zhang
+Kai Zhang 0001*Chuanren Liu
+Kai Zhang 0001*Hui Xiong
+Kai Zhang 0001*Wei Cheng
+Kai Zhang 0001*Haifeng Chen
+Yuto Yamaguchi*Christos Faloutsos
+Yuto Yamaguchi*Hiroyuki Kitagawa
+Christos Faloutsos*Hiroyuki Kitagawa
+Christos Faloutsos*Zongge Liu
+Christos Faloutsos*Hyun Ah Song
+Christos Faloutsos*Vladimir Zadorozhny
+Christos Faloutsos*Nicholas D. Sidiropoulos
+Christos Faloutsos*Evangelos E. Papalexakis
+Christos Faloutsos*Tom M. Mitchell
+Christos Faloutsos*Partha Pratim Talukdar
+Christos Faloutsos*Danai Koutra
+Christos Faloutsos*Bryan Hooi
+Christos Faloutsos*Alex Beutel
+Christos Faloutsos*Kejun Huang
+Christos Faloutsos*Alceu Ferraz Costa
+Christos Faloutsos*Dhivya Eswaran
+Christos Faloutsos*Neil Shah
+Christos Faloutsos*Mohit Kumar
+Christos Faloutsos*Disha Makhija
+Christos Faloutsos*U. Kang
+Christos Faloutsos*Xiao Fu 0001
+Christos Faloutsos*Meng Jiang 0001
+Christos Faloutsos*Peng Cui 0001
+Christos Faloutsos*Shiqiang Yang
+Christos Faloutsos*Agma Juci Machado Traina
+Christos Faloutsos*Caetano Traina Jr.
+Christos Faloutsos*Kijung Shin
+Christos Faloutsos*Brian Gallagher
+Christos Faloutsos*Wenwu Zhu 0001
+Christos Faloutsos*Chengxi Zang
+Christos Faloutsos*Jisu Kim
+Christos Faloutsos*Miguel Araujo
+Christos Faloutsos*Pedro Manuel Pinto Ribeiro
+Christos Faloutsos*tter
+Christos Faloutsos*Michael R. Berthold
+Christos Faloutsos*Jay Yoon Lee
+Christos Faloutsos*Jinoh Oh
+Christos Faloutsos*Rakesh Agrawal 0001
+Christos Faloutsos*Maria Giatsoglou
+Christos Faloutsos*Despoina Chatzakou
+Christos Faloutsos*Athena Vakali
+Christos Faloutsos*Srijan Kumar
+Christos Faloutsos*V. S. Subrahmanian
+Paulo Shakarian*John Bertetto
+Yun-Qian Miao*Ahmed K. Farahat
+Yun-Qian Miao*Mohamed S. Kamel
+Ahmed K. Farahat*Mohamed S. Kamel
+Chen Chen 0022*Lei Ying
+Charu C. Aggarwal*Suhang Wang
+Charu C. Aggarwal*Jiliang Tang
+Charu C. Aggarwal*Xinyue Liu
+Charu C. Aggarwal*Xiangnan Kong
+Charu C. Aggarwal*Saket Sathe
+Charu C. Aggarwal*Karthik Subbian
+Charu C. Aggarwal*Jaideep Srivastava
+Charu C. Aggarwal*Min-Hsuan Tsai
+Charu C. Aggarwal*Thomas S. Huang
+Charu C. Aggarwal*Pengyang Wang
+Charu C. Aggarwal*Jiawei Zhang
+Charu C. Aggarwal*Guannan Liu
+Charu C. Aggarwal*Yanjie Fu
+Charu C. Aggarwal*Jialu Liu
+Charu C. Aggarwal*Wenchao Yu
+Charu C. Aggarwal*Wei Wang
+Charu C. Aggarwal*Deepak S. Turaga
+Charu C. Aggarwal*Wei Cheng
+Charu C. Aggarwal*Haifeng Chen
+Charu C. Aggarwal*Shiyu Chang
+Charu C. Aggarwal*Guo-Jun Qi
+Charu C. Aggarwal*Pengfei Wang
+Jelena Stojanovic*Djordje Gligorijevic
+Jelena Stojanovic*Zoran Obradovic
+Djordje Gligorijevic*Zoran Obradovic
+Zoran Obradovic*Mohamed F. Ghalwash
+Chao Che*Bo Jin 0001
+Cao Xiao*Inci M. Baytas
+Cao Xiao*Anil K. Jain 0001
+Cao Xiao*Jiayu Zhou
+Bo Jin 0001*Chuanren Liu
+Bo Jin 0001*Yue Qu
+Bo Jin 0001*Li Guo 0008
+Bo Jin 0001*Hengshu Zhu
+Kaiqi Zhao*Gao Cong
+Gao Cong*Shonali Krishnaswamy
+Gao Cong*Quan Yuan 0001
+Min Yang*Kai Lei
+Min Yang*Xiaojun Chen 0006
+Min Yang*Joshua Zhexue Huang
+Kai Lei*Tengjiao Wang
+Kai Lei*Wei Chen 0021
+Xiaojun Chen 0006*Joshua Zhexue Huang
+Joshua Zhexue Huang*Nguyen Thanh Tung
+Joshua Zhexue Huang*Imran Khan 0003
+Joshua Zhexue Huang*Mark Junjie Li
+Joshua Zhexue Huang*Graham J. Williams
+Joshua Zhexue Huang*Yu-Lin He
+Joshua Zhexue Huang*Xizhao Wang
+s*Evimaria Terzi
+Evimaria Terzi*Behzad Golshan
+Evimaria Terzi*Aristides Gionis
+Evimaria Terzi*Harshal A. Chaudhari
+Evimaria Terzi*Natali Ruchansky
+Evimaria Terzi*Mark Crovella
+Evimaria Terzi*Theodoros Lappas
+a-Soriano*Francesco Bonchi
+Yong Li 0008*Depeng Jin
+Emre Eftelioglu*Xun Tang
+Emre Eftelioglu*Shashi Shekhar
+Xun Tang*Shashi Shekhar
+Shashi Shekhar*Yiqun Xie
+Shashi Shekhar*Joseph K. Knight
+Jun Wang*Eamonn J. Keogh
+Cho-Jui Hsieh*Si Si
+Cho-Jui Hsieh*Inderjit S. Dhillon
+Cho-Jui Hsieh*Huan Zhang
+Senzhang Wang*Zhoujun Li
+Senzhang Wang*Philip S. Yu
+Sihong Xie*Philip S. Yu
+Sihong Xie*Qingbo Hu
+Sihong Xie*Jingyuan Zhang
+Sihong Xie*Chun-Ta Lu
+Zhoujun Li*Philip S. Yu
+Zhoujun Li*Fang Wang
+Philip S. Yu*Ning Yang 0001
+Philip S. Yu*Qingbo Hu
+Philip S. Yu*Weixiang Shao
+Philip S. Yu*Jingyuan Zhang
+Philip S. Yu*Guixiang Ma
+Philip S. Yu*Lifang He 0001
+Philip S. Yu*Chun-Ta Lu
+Philip S. Yu*Linlin Shen
+Philip S. Yu*Ann B. Ragin
+Philip S. Yu*Ya-Wen Teng
+Philip S. Yu*Chih-Hua Tai
+Philip S. Yu*Ming-Syan Chen
+Philip S. Yu*Xiangnan Kong
+Philip S. Yu*Bokai Cao
+Philip S. Yu*Xiaowei Yang
+Philip S. Yu*Zhifeng Hao
+Philip S. Yu*Shuyang Lin
+Philip S. Yu*Xiaokai Wei
+Philip S. Yu*Fengjiao Wang
+Philip S. Yu*Alex D. Leow
+Philip S. Yu*Jiawei Zhang
+Philip S. Yu*Fei Jiang
+Philip S. Yu*Jin Xu 0002
+Philip S. Yu*Albert Bifet
+Philip S. Yu*Jianping Cao
+Philip S. Yu*Mia Mao
+Philip S. Yu*Siim Viidu
+Philip S. Yu*Lei Zheng
+Philip S. Yu*Chenwei Zhang
+Philip S. Yu*Binbin Hu
+Philip S. Yu*Chuan Shi
+Philip S. Yu*Yuanhua Lv
+Philip S. Yu*Ji Wang
+Philip S. Yu*Jianguo Zhang
+Philip S. Yu*Guan Wang
+Philip S. Yu*Hong-Han Shuai
+Philip S. Yu*Linchuan Xu
+Philip S. Yu*Jiannong Cao
+Nicholas D. Sidiropoulos*Zongge Liu
+Nicholas D. Sidiropoulos*Hyun Ah Song
+Nicholas D. Sidiropoulos*Vladimir Zadorozhny
+Nicholas D. Sidiropoulos*Evangelos E. Papalexakis
+Nicholas D. Sidiropoulos*Tom M. Mitchell
+Nicholas D. Sidiropoulos*Partha Pratim Talukdar
+Nicholas D. Sidiropoulos*Kejun Huang
+Nicholas D. Sidiropoulos*Xiao Fu 0001
+Yada Zhu*Jianbo Li
+Yada Zhu*Hongxia Yang
+C. Lee Giles*Qinglong Wang
+C. Lee Giles*Wenbo Guo
+C. Lee Giles*Kaixuan Zhang
+C. Lee Giles*Alexander G. Ororbia II
+C. Lee Giles*Xinyu Xing
+C. Lee Giles*Xue Liu
+Yifan Fu*Junbin Gao
+Yifan Fu*Xia Hong 0001
+Yifan Fu*David Tien
+Junbin Gao*Xia Hong 0001
+Junbin Gao*David Tien
+Junbin Gao*Xinwei Jiang
+Xia Hong 0001*David Tien
+Arthur Zimek*Erich Schubert
+Juhua Hu*Jian Pei
+Juhua Hu*Qi Qian
+Juhua Hu*Rong Jin
+Juhua Hu*Shenghuo Zhu
+Jian Pei*Jie Tang 0001
+Jian Pei*James Bailey
+Jian Pei*Lingyang Chu
+Jian Pei*Wenwu Zhu 0001
+Jian Pei*Ziwei Zhang
+Jian Pei*Peng Cui 0001
+Jian Pei*Kui Yu
+Jian Pei*Wei Ding 0003
+Jian Pei*Xindong Wu 0001
+Jian Pei*Qi Qian
+Jian Pei*Rong Jin
+Jian Pei*Shenghuo Zhu
+Jian Pei*Xuan Vinh Nguyen
+Jian Pei*Jeffrey Chan
+Jian Pei*Christopher Leckie
+Jian Pei*Kotagiri Ramamohanarao
+Jie Tang 0001*Yutao Zhang
+Jie Tang 0001*Yang Yang 0009
+Jie Tang 0001*Yuxiao Dong
+Jie Tang 0001*Nitesh V. Chawla
+Jie Tang 0001*Jing Zhang 0001
+Jie Tang 0001*Jiezhong Qiu
+Jie Tang 0001*Hao Ma
+Jie Tang 0001*Kuansan Wang
+Jie Tang 0001*Zhilin Yang
+Li-Yen Kuo*Chung-Kuang Chou
+Li-Yen Kuo*Ming-Syan Chen
+Chung-Kuang Chou*Ming-Syan Chen
+Ming-Syan Chen*Ya-Wen Teng
+Ming-Syan Chen*Chih-Hua Tai
+Ming-Syan Chen*Hong-Han Shuai
+Ming-Syan Chen*De-Nian Yang
+Ming-Syan Chen*Liang-Hao Huang
+Ming-Syan Chen*Wang-Chien Lee
+Ming-Syan Chen*Wush Chi-Hsuan Wu
+Ming-Syan Chen*Mi-Yen Yeh
+Ming-Syan Chen*Chih-Ya Shen
+Zongge Liu*Hyun Ah Song
+Zongge Liu*Vladimir Zadorozhny
+Hyun Ah Song*Vladimir Zadorozhny
+Hyun Ah Song*Bryan Hooi
+Hyun Ah Song*Xiao Fu 0001
+Hyun Ah Song*Kejun Huang
+Hyun Ah Song*Evangelos E. Papalexakis
+Hyun Ah Song*Tom M. Mitchell
+Hyun Ah Song*Rakesh Agrawal 0001
+Suhang Wang*Jiliang Tang
+Suhang Wang*Yilin Wang
+Suhang Wang*Suhas Ranganath
+Suhang Wang*Kai Shu
+Jiliang Tang*Yi Chang
+Jiliang Tang*Yilin Wang
+Jiliang Tang*Suhas Ranganath
+Jiliang Tang*Huiji Gao
+Jiliang Tang*Chikashi Nobata
+Jiliang Tang*Xiangyu Zhao
+Jiliang Tang*Zhuoye Ding
+Jiliang Tang*Dawei Yin
+Jiliang Tang*Shiyu Chang
+Jiliang Tang*Guo-Jun Qi
+Jiliang Tang*Thomas S. Huang
+Jiliang Tang*Yao Ma 0001
+Jiliang Tang*Zhaochun Ren
+Jiliang Tang*Ziheng Jiang
+Jiliang Tang*Tyler Derr
+Yi Chang*Chikashi Nobata
+Yi Chang*Anlei Dong
+Yi Chang*Yan Liu 0002
+Yi Chang*Dawei Yin
+Yi Chang*Liangda Li
+Yi Chang*Hongbo Deng
+Yi Chang*Makoto Yamada
+Yi Chang*Amit Goyal
+Yi Chang*Jianhui Chen
+Yi Chang*Pengyuan Wang
+Yi Chang*Luo Jie
+Xuan-Hong Dang*Hongyuan You
+Xuan-Hong Dang*Ambuj K. Singh
+Xuan-Hong Dang*Arlei Silva
+Xuan-Hong Dang*Prithwish Basu
+Xuan-Hong Dang*Ananthram Swami
+Hongyuan You*Ambuj K. Singh
+Ambuj K. Singh*Sourav Medya
+Ambuj K. Singh*Arlei Silva
+Ambuj K. Singh*Prithwish Basu
+Ambuj K. Singh*Ananthram Swami
+Ambuj K. Singh*Petko Bogdanov
+Steve Harenberg*Nagiza F. Samatova
+Steve Harenberg*Stephen Ranshous
+Nagiza F. Samatova*Stephen Ranshous
+Shanshan Zhang*Slobodan Vucetic
+Saurav Ghosh*John S. Brownstein
+Sumiko R. Mekaru*Elaine O. Nsoesie
+Sumiko R. Mekaru*John S. Brownstein
+Sumiko R. Mekaru*Prithwish Chakraborty
+Elaine O. Nsoesie*John S. Brownstein
+John S. Brownstein*Prithwish Chakraborty
+John S. Brownstein*Bryan L. Lewis
+John S. Brownstein*Madhav V. Marathe
+Sanjar Karaev*Pauli Miettinen
+Pauli Miettinen*Esther Galbrun
+Pauli Miettinen*Stefan Neumann 0003
+Qingbo Hu*Shuyang Lin
+Weixiang Shao*Lifang He 0001
+Weixiang Shao*Chun-Ta Lu
+Jingyuan Zhang*Bokai Cao
+Jingyuan Zhang*Ann B. Ragin
+Jingyuan Zhang*Xiangnan Kong
+Mahdi Pakdaman Naeini*Milos Hauskrecht
+Mahdi Pakdaman Naeini*Gregory F. Cooper
+Iyad Batal*Charmgil Hong
+Iyad Batal*Milos Hauskrecht
+Zitao Liu*Milos Hauskrecht
+Charmgil Hong*Milos Hauskrecht
+Simone Romano 0003*James Bailey
+Nguyen Xuan Vinh*James Bailey
+James Bailey*Ian Davidson
+James Bailey*Mohadeseh Ganji
+James Bailey*Jeffrey Chan
+James Bailey*Peter J. Stuckey
+James Bailey*Christopher Leckie
+James Bailey*Kotagiri Ramamohanarao
+James Bailey*Sarah M. Erfani
+James Bailey*Shuo Zhou
+James Bailey*Xuan Vinh Nguyen
+Lei Li 0001*Chao Shen
+Lei Li 0001*Tao Li 0001
+Chao Shen*Tao Li 0001
+Tao Li 0001*Yexi Jiang
+Tao Li 0001*Qing Wang
+Tao Li 0001*Larisa Shwartz
+Tao Li 0001*Genady Ya. Grabarnik
+Tao Li 0001*Chunqiu Zeng
+Tao Li 0001*Wei Xue
+Tao Li 0001*Wubai Zhou
+Tao Li 0001*Zheng Liu
+Guixiang Ma*Lifang He 0001
+Guixiang Ma*Chun-Ta Lu
+Guixiang Ma*Ann B. Ragin
+Lifang He 0001*Chun-Ta Lu
+Lifang He 0001*Linlin Shen
+Lifang He 0001*Ann B. Ragin
+Lifang He 0001*Xiangnan Kong
+Lifang He 0001*Xiaowei Yang
+Lifang He 0001*Zhifeng Hao
+Lifang He 0001*Bokai Cao
+Lifang He 0001*Xiaokai Wei
+Chun-Ta Lu*Linlin Shen
+Chun-Ta Lu*Ann B. Ragin
+Chun-Ta Lu*Bokai Cao
+Ann B. Ragin*Bokai Cao
+Ann B. Ragin*Xiangnan Kong
+Ann B. Ragin*Zhifeng Hao
+Zi Huang*Hongzhi Yin
+Zi Huang*Defu Lian
+Chi Wang 0001*Xiang Ren
+Chi Wang 0001*Ahmed El-Kishky
+Xiang Ren*Meng Qu
+Xiang Ren*Ahmed El-Kishky
+Xiang Ren*Zeqiu Wu
+Xiang Ren*Clare R. Voss
+Xiang Ren*Xiao Yu
+Xiang Ren*Urvashi Khandelwal
+Xiang Ren*Quanquan Gu
+Xiang Ren*Jingbo Shang
+Wei-Lin Chiang*Mu-Chu Lee
+Rose Yu*Cyrus Shahabi
+Rose Yu*Ugur Demiryurek
+Rose Yu*Yan Liu 0002
+Yaguang Li*Cyrus Shahabi
+Cyrus Shahabi*Ugur Demiryurek
+Cyrus Shahabi*Yan Liu 0002
+Cyrus Shahabi*Dingxiong Deng
+Cyrus Shahabi*Linhong Zhu
+Cyrus Shahabi*Liyue Fan
+Ugur Demiryurek*Yan Liu 0002
+Ugur Demiryurek*Dingxiong Deng
+Ugur Demiryurek*Linhong Zhu
+Yan Liu 0002*Mohammad Taha Bahadori
+Yan Liu 0002*Dehua Cheng
+Shulong Tan*Huan Sun
+Shulong Tan*Mudhakar Srivatsa
+Huan Sun*Mudhakar Srivatsa
+Huan Sun*Yaliang Li
+Huan Sun*Chaochun Liu
+Houping Xiao*Long H. Vu
+Houping Xiao*Deepak S. Turaga
+Houping Xiao*Lu Su
+Houping Xiao*Fenglong Ma
+Houping Xiao*Qi Li 0012
+Long H. Vu*Deepak S. Turaga
+Deepak S. Turaga*Srinivasan Parthasarathy 0002
+Deepak S. Turaga*Udayan Khurana
+Yilin Shen*Hongxia Jin
+Yanping Chen 0005*Eamonn J. Keogh
+Eamonn J. Keogh*Mohammad Shokoohi-Yekta
+Eamonn J. Keogh*Liudmila Ulanova
+Eamonn J. Keogh*Nurjahan Begum
+Eamonn J. Keogh*Abdullah Mueen
+Eamonn J. Keogh*Hoang Anh Dau
+Eamonn J. Keogh*Chin-Chia Michael Yeh
+Eamonn J. Keogh*Diego Furtado Silva
+Eamonn J. Keogh*Yan Zhu 0014
+Eamonn J. Keogh*Yifei Ding
+Eamonn J. Keogh*Shaghayegh Gharghabi
+Eamonn J. Keogh*Zachary Zimmerman
+Eamonn J. Keogh*Germain Forestier
+Eamonn J. Keogh*Kaveh Kamgar
+Hongxia Jin*Lei Cen
+Hongxia Jin*Deguang Kong
+Anuj Karpatne*Ankush Khandelwal
+Ankush Khandelwal*Xiaowei Jia
+Ankush Khandelwal*Guruprasad Nayak
+Ankush Khandelwal*James Gerber
+Ankush Khandelwal*Kimberly Carlson
+Ankush Khandelwal*Paul C. West
+nchez*ller
+ller*chter
+hm*Claudia Plant
+hm*Wei Ye
+hm*Linfei Zhou
+hm*Dominik Mautz
+hm*Sebastian Goebl
+Shuangfei Zhai*Zhongfei (Mark) Zhang
+Le Wu*Qi Liu 0003
+Le Wu*Enhong Chen
+Le Wu*Xing Xie 0001
+Le Wu*Hongke Zhao
+Le Wu*Yong Ge
+Qi Liu 0003*Enhong Chen
+Qi Liu 0003*Xing Xie 0001
+Qi Liu 0003*Hui Xiong
+Qi Liu 0003*Hengshu Zhu
+Qi Liu 0003*Tong Xu
+Qi Liu 0003*Zhenya Huang
+Qi Liu 0003*Fuzheng Zhang
+Qi Liu 0003*Xing Xie
+Qi Liu 0003*Guoping Hu
+Qi Liu 0003*Hongke Zhao
+Qi Liu 0003*Yong Ge
+Qi Liu 0003*Chuanren Liu
+Enhong Chen*Xing Xie 0001
+Enhong Chen*Chu Guan
+Enhong Chen*Yanjie Fu
+Enhong Chen*Xinjiang Lu
+Enhong Chen*Hui Xiong
+Enhong Chen*Yingling Liu
+Enhong Chen*Zaiyi Chen
+Enhong Chen*Linli Xu
+Enhong Chen*Biao Chang
+Enhong Chen*Zhefeng Wang
+Enhong Chen*Yitan Li
+Enhong Chen*Hengshu Zhu
+Enhong Chen*Tong Xu
+Enhong Chen*Hao Zhong
+Enhong Chen*Zhenya Huang
+Enhong Chen*Guoping Hu
+Enhong Chen*Hongke Zhao
+Enhong Chen*Yong Ge
+Enhong Chen*Nicholas Jing Yuan
+Enhong Chen*Defu Lian
+Enhong Chen*Yong Rui
+Enhong Chen*Xiangyu Zhao
+Enhong Chen*Chuan Qin
+Enhong Chen*Kun Zhang
+Enhong Chen*Chuanren Liu
+Enhong Chen*Guangyi Lv
+Enhong Chen*Yin Zhu
+Enhong Chen*Zhen Wang
+Enhong Chen*Chen Zhu
+Enhong Chen*Aiqing Huang
+Enhong Chen*Qi Liu
+Enhong Chen*Qi Zhou
+Enhong Chen*Tianxiang Zhao
+Enhong Chen*Yijun Wang
+Xing Xie 0001*Nicholas Jing Yuan
+Xing Xie 0001*Yingzi Wang
+Xing Xie 0001*Defu Lian
+Xing Xie 0001*Linli Xu
+Xing Xie 0001*Yong Rui
+Xing Xie 0001*Guangzhong Sun
+Xing Xie 0001*Fuzheng Zhang
+Xing Xie 0001*Wei-Ying Ma
+Xing Xie 0001*Kai Zheng 0001
+Xing Xie 0001*Yong Ge
+Xing Xie 0001*Longbing Cao
+Xing Xie 0001*Yin Zhu
+Xing Xie 0001*Yuan Zhong
+Xing Xie 0001*Hao Fu
+Xing Xie 0001*Chuanren Liu
+Xing Xie 0001*Hui Xiong
+Reza Zafarani*Shengmin Jin
+Qingyang Hu*Kevin Chiew
+Qingyang Hu*Hao Huang
+Qingyang Hu*Qinming He
+Kevin Chiew*Hao Huang
+Kevin Chiew*Qinming He
+Kevin Chiew*Zhenguang Liu
+Hao Huang*Qinming He
+Hao Huang*Shinjae Yoo
+Hao Huang*Dantong Yu
+Hao Huang*Zhenguang Liu
+Hao Huang*Hong Qin
+Qinming He*Zhenguang Liu
+Grigorios Loukides*Robert Gwadera
+Xi C. Chen*James H. Faghmous
+Ayan Acharya*Joydeep Ghosh
+Joydeep Ghosh*Rajiv Khanna
+Joydeep Ghosh*Jimeng Sun
+Karthik Subbian*Jaideep Srivastava
+Ziyu Lu*Nikos Mamoulis
+Hui Li*Xiaoyi Li
+Nikos Mamoulis*David W. Cheung
+Kazumi Saito*Kouzou Ohara
+Kazumi Saito*Masahiro Kimura
+Kazumi Saito*Hiroshi Motoda
+Nemanja Djuric*Mihajlo Grbovic
+Nemanja Djuric*Vladan Radosavljevic
+Nemanja Djuric*Narayan Bhamidipati
+Xian Wu*Yuxiao Dong
+Xian Wu*Baoxu Shi
+Xian Wu*Nitesh V. Chawla
+Yuxiao Dong*Baoxu Shi
+Yuxiao Dong*Ananthram Swami
+Yuxiao Dong*Nitesh V. Chawla
+Yuxiao Dong*Reid A. Johnson
+Yuxiao Dong*Jiezhong Qiu
+Yuxiao Dong*Hao Ma
+Yuxiao Dong*Kuansan Wang
+Baoxu Shi*Nitesh V. Chawla
+Ananthram Swami*Nitesh V. Chawla
+Ananthram Swami*Arlei Silva
+Ananthram Swami*Prithwish Basu
+Nitesh V. Chawla*Reid A. Johnson
+Nitesh V. Chawla*Jian Xu
+Saravanan Thirumuruganathan*Gautam Das 0001
+Shuai Yuan*Pang-Ning Tan
+Shuai Yuan*C. Emi Fergus
+Shuai Yuan*Patricia A. Soranno
+Shuai Yuan*Jun Wang 0012
+Shuai Yuan*Bowei Chen
+Pang-Ning Tan*C. Emi Fergus
+Pang-Ning Tan*Patricia A. Soranno
+Pang-Ning Tan*Jianpeng Xu
+Pang-Ning Tan*Jiayu Zhou
+Pang-Ning Tan*Lifeng Luo
+Pang-Ning Tan*Xi Liu
+C. Emi Fergus*Patricia A. Soranno
+Ekta Gujral*Evangelos E. Papalexakis
+Evangelos E. Papalexakis*Tom M. Mitchell
+Evangelos E. Papalexakis*Partha Pratim Talukdar
+Evangelos E. Papalexakis*Kejun Huang
+Evangelos E. Papalexakis*Xiao Fu 0001
+Evangelos E. Papalexakis*Rakesh Agrawal 0001
+Evangelos E. Papalexakis*Ioakeim Perros
+Evangelos E. Papalexakis*Richard W. Vuduc
+Evangelos E. Papalexakis*Jimeng Sun
+Evangelos E. Papalexakis*Bryan Hooi
+Yexi Jiang*Chunqiu Zeng
+Yexi Jiang*Wubai Zhou
+Xinyue Liu*Xiangnan Kong
+Xinyue Liu*Saket Sathe
+Xinyue Liu*Yao Zhang
+Xiangnan Kong*Saket Sathe
+Xiangnan Kong*Xiaowei Yang
+Xiangnan Kong*Zhifeng Hao
+Xiangnan Kong*John Boaz Lee
+Xiangnan Kong*Yao Zhang
+Xiangnan Kong*Yun Xiong
+Xiangnan Kong*Yangyong Zhu
+Xiangnan Kong*Bokai Cao
+Xiangnan Kong*Hong-Han Shuai
+Jaideep Srivastava*Komal Kapoor
+Jaideep Srivastava*Aarti Sathyanarayana
+Ping Luo 0001*Qing He
+Ping Luo 0001*Fuzhen Zhuang
+Ping Luo 0001*Hui Xiong
+Qing He*Fuzhen Zhuang
+Qing He*Zhongzhi Shi
+Qing He*Dan Luo
+Fuzhen Zhuang*Zhongzhi Shi
+Fuzhen Zhuang*Dan Luo
+Fuzhen Zhuang*Cheng Niu
+Fuzhen Zhuang*Hui Xiong
+Min-Hsuan Tsai*Thomas S. Huang
+Thomas S. Huang*Shiyu Chang
+Thomas S. Huang*Jiayu Zhou
+Thomas S. Huang*Guo-Jun Qi
+Sheng Li 0001*Yun Fu 0001
+Sheng Li 0001*Ming Shao
+Yun Fu 0001*Ming Shao
+Yun Fu 0001*Hongfu Liu
+Yun Fu 0001*Junjie Wu
+Yun Fu 0001*Dacheng Tao
+Yun Fu 0001*Zhengming Ding
+Yijun Zhao*Carla E. Brodley
+Yijun Zhao*Tanuja Chitnis
+Yijun Zhao*Brian C. Healy
+Yijun Zhao*Jennifer G. Dy
+Carla E. Brodley*Tanuja Chitnis
+Carla E. Brodley*Brian C. Healy
+Carla E. Brodley*Jennifer G. Dy
+Tanuja Chitnis*Brian C. Healy
+Peng Peng 0002*Raymond Chi-Wing Wong
+Raymond Chi-Wing Wong*Cheng Long
+Yongjie Cai*Ping Ji
+Ya-Wen Teng*Chih-Hua Tai
+Tom M. Mitchell*Partha Pratim Talukdar
+Tom M. Mitchell*Kejun Huang
+Tom M. Mitchell*Xiao Fu 0001
+Partha Pratim Talukdar*Kejun Huang
+Dang Nguyen 0002*Wei Luo
+Dang Nguyen 0002*Tu Dinh Nguyen
+Wei Luo*Tu Dinh Nguyen
+Tu Dinh Nguyen*Khanh Nguyen
+Tu Dinh Nguyen*Trung Le
+Tu Dinh Nguyen*Vu Nguyen 0001
+Nikos Parotsidis*Evaggelia Pitoura
+Nikos Parotsidis*Panayiotis Tsaparas
+Evaggelia Pitoura*Panayiotis Tsaparas
+Danai Koutra*Mark Heimann
+Danai Koutra*Di Jin
+Danai Koutra*U. Kang
+Danai Koutra*Tara Safavi
+Danai Koutra*Jay Yoon Lee
+Ryan McBride*Ke Wang
+Ryan McBride*Wenyuan Li
+Ke Wang*Wenyuan Li
+Ke Wang*Jiaxi Tang
+Ahsanur Rahman*Steve T. K. Jan
+Ahsanur Rahman*Hyunju Kim
+Ahsanur Rahman*T. M. Murali
+Steve T. K. Jan*Hyunju Kim
+Steve T. K. Jan*T. M. Murali
+Hyunju Kim*T. M. Murali
+Guruprasad Nayak*Xiaowei Jia
+Guruprasad Nayak*James Gerber
+Guruprasad Nayak*Kimberly Carlson
+Guruprasad Nayak*Paul C. West
+Xiaowei Jia*James Gerber
+Xiaowei Jia*Kimberly Carlson
+Xiaowei Jia*Paul C. West
+Zhenhui Li*Guanjie Zheng
+Zhenhui Li*Thomas Lauvaux
+Zhenhui Li*Hongjian Wang 0002
+Zhenhui Li*Fei Wu 0007
+Zhenhui Li*Hua Wei
+Zhenhui Li*Wang-Chien Lee
+Guanjie Zheng*Thomas Lauvaux
+Heidar Davoudi*Morteza Zihayat
+Heidar Davoudi*Aijun An
+Morteza Zihayat*Aijun An
+Bryan Hooi*Neil Shah
+Bryan Hooi*Alex Beutel
+Bryan Hooi*Mohit Kumar
+Bryan Hooi*Disha Makhija
+Bryan Hooi*Kijung Shin
+Bryan Hooi*Jisu Kim
+Bryan Hooi*Rakesh Agrawal 0001
+Takashi Washio*Sunil Aryal
+Takashi Washio*Kai Ming Ting
+Vijay Manikandan Janakiraman*Bryan L. Matthews
+Vijay Manikandan Janakiraman*Nikunj C. Oza
+Bryan L. Matthews*Nikunj C. Oza
+Yaliang Li*Mengdi Huai
+Yaliang Li*Chenglin Miao
+Yaliang Li*Qiuling Suo
+Yaliang Li*Lu Su
+Yaliang Li*Qi Li 0012
+Yaliang Li*Fenglong Ma
+Yaliang Li*Guangxu Xun
+Yaliang Li*Chenwei Zhang
+Yaliang Li*Bo Zhao 0001
+Yaliang Li*Chaochun Liu
+Yaliang Li*Vishrawas Gopalakrishnan
+Junxiang Chen*Jennifer G. Dy
+Junxiang Chen*Yale Chang
+Junxiang Chen*Michael H. Cho
+Junxiang Chen*Peter J. Castaldi
+Junxiang Chen*Edwin K. Silverman
+Yizhou Sun*Ting Chen
+Yizhou Sun*Yupeng Gu
+Jennifer G. Dy*Yale Chang
+Jennifer G. Dy*Michael H. Cho
+Jennifer G. Dy*Peter J. Castaldi
+Jennifer G. Dy*Edwin K. Silverman
+Laks V. S. Lakshmanan*Pei Lee
+Laks V. S. Lakshmanan*Wei Lu 0002
+Laks V. S. Lakshmanan*Smriti Bhagat
+Yan Zhou*Murat Kantarcioglu
+Murat Kantarcioglu*Cuneyt Gurcan Akcora
+Murat Kantarcioglu*Yulia R. Gel
+Ramakrishnan Kannan*Haesun Park
+Haesun Park*Jaegul Choo
+Alex Beutel*Neil Shah
+Alex Beutel*Mohit Kumar
+Alex Beutel*Disha Makhija
+Alex Beutel*Sagar Jain
+Alex Beutel*Ed H. Chi
+Alex Beutel*Meng Jiang 0001
+Alex Beutel*Peng Cui 0001
+Alex Beutel*Shiqiang Yang
+Alex Beutel*Paul Covington
+Abhimanu Kumar*Eric P. Xing
+Eric P. Xing*Gunhee Kim
+Eric P. Xing*Xun Zheng
+Eric P. Xing*Yaoliang Yu
+Eric P. Xing*Wei Dai 0003
+Eric P. Xing*Mrinmaya Sachan
+Eric P. Xing*Pengtao Xie
+Eric P. Xing*Qirong Ho
+Chu Guan*Yanjie Fu
+Chu Guan*Xinjiang Lu
+Chu Guan*Hui Xiong
+Chu Guan*Xiaolin Li
+Yanjie Fu*Xinjiang Lu
+Yanjie Fu*Hui Xiong
+Yanjie Fu*Pengyang Wang
+Yanjie Fu*Jiawei Zhang
+Yanjie Fu*Guannan Liu
+Yanjie Fu*Yong Ge
+Yanjie Fu*Yuanchun Zhou
+Yanjie Fu*Jianhui Li
+Yanjie Fu*Bin Liu 0020
+Yanjie Fu*Zijun Yao
+Yanjie Fu*Hengshu Zhu
+Yanjie Fu*Kunpeng Liu
+Yanjie Fu*Junming Liu
+Yanjie Fu*Jingci Ming
+Yanjie Fu*Pengfei Wang
+Yanjie Fu*Wenqing Hu
+Yanjie Fu*Yu Zheng 0004
+Yanjie Fu*Yanchi Liu
+Yanjie Fu*Tong Xu
+Yanjie Fu*Haoyi Xiong
+Yanjie Fu*Xiaolin Li
+Xinjiang Lu*Hui Xiong
+Xinjiang Lu*Chuanren Liu
+Xinjiang Lu*Xiaolin Li
+Hui Xiong*Bin Liu 0020
+Hui Xiong*Yong Ge
+Hui Xiong*Zijun Yao
+Hui Xiong*Hengshu Zhu
+Hui Xiong*Tong Xu
+Hui Xiong*Hao Zhong
+Hui Xiong*Guannan Liu
+Hui Xiong*Meng Qu
+Hui Xiong*Junming Liu
+Hui Xiong*Chuanren Liu
+Hui Xiong*Junjie Wu
+Hui Xiong*Leilei Sun
+Hui Xiong*Weiwei Chen 0003
+Hui Xiong*Chen Zhu
+Hui Xiong*Keli Xiao
+Hui Xiong*Huang Xu
+Hui Xiong*Zhiwen Yu 0001
+Hui Xiong*Jingyuan Yang
+Hui Xiong*Yanchi Liu
+Hui Xiong*Mingfei Teng
+Hui Xiong*Jingci Ming
+Hui Xiong*Wenjun Zhou
+Hui Xiong*Qiao Li
+Hui Xiong*Hao Wang 0005
+Hui Xiong*Yu Zheng 0004
+Hui Xiong*Yijun Wang
+Hui Xiong*Xiaolin Li
+Zilong Bai*Peter B. Walker
+Zilong Bai*Ian Davidson
+Peter B. Walker*Ian Davidson
+Peter B. Walker*Chia-Tung Kuo
+Peter B. Walker*Owen T. Carmichael
+Ian Davidson*Chia-Tung Kuo
+Ian Davidson*Xiang Wang 0001
+Ian Davidson*Buyue Qian
+Ian Davidson*Shuiwang Ji
+Ian Davidson*Owen T. Carmichael
+Ian Davidson*Changchang Yin
+Ian Davidson*Shilei Cao
+Ian Davidson*Xiaoyu Li
+Ian Davidson*Jishang Wei
+Ian Davidson*Aubrey Gress
+Zhangyang Wang*Jiayu Zhou
+Shiyu Chang*Jiayu Zhou
+Shiyu Chang*Guo-Jun Qi
+Jiayu Zhou*Jianpeng Xu
+Jiayu Zhou*Kaixiang Lin
+Jiayu Zhou*Yan Li
+Jiayu Zhou*Qi Wang
+Jiayu Zhou*Mengying Sun
+Jiayu Zhou*Liang Zhan
+Jiayu Zhou*Shuiwang Ji
+Jiayu Zhou*Inci M. Baytas
+Jiayu Zhou*Anil K. Jain 0001
+Chandan K. Reddy*Yan Li
+Chandan K. Reddy*Bhanukiran Vinzamuri
+Chandan K. Reddy*Jaegul Choo
+Chandan K. Reddy*Jie Wang 0005
+Chandan K. Reddy*Vineeth Rakesh
+Christopher M. Jermaine*Anna Drummond
+David F. Gleich*Yangyang Hou
+David F. Gleich*Joyce Jiyoung Whang
+David F. Gleich*Inderjit S. Dhillon
+David F. Gleich*Austin R. Benson
+David F. Gleich*Jure Leskovec
+David F. Gleich*Nicole Eikmeier
+Chuan Hu*Huiping Cao
+Peifeng Yin*Wang-Chien Lee
+Qi He*Deepak Agarwal
+Qi He*Bee-Chung Chen
+Qi He*Yiming Ma
+Qi He*Pannagadatta Shivaswamy
+Qi He*Liang Zhang
+Wang-Chien Lee*Hong-Han Shuai
+Wang-Chien Lee*De-Nian Yang
+Wang-Chien Lee*Liang-Hao Huang
+Wang-Chien Lee*Chih-Ya Shen
+Wang-Chien Lee*Zhen Lei
+Wang-Chien Lee*Tao-Yang Fu
+Masud Moshtaghi*Christopher Leckie
+Masud Moshtaghi*Mahsa Salehi
+Christopher Leckie*Jeffrey Chan
+Christopher Leckie*Kotagiri Ramamohanarao
+Christopher Leckie*Sarah M. Erfani
+Christopher Leckie*Sutharshan Rajasegarar
+Christopher Leckie*Xuan Vinh Nguyen
+Pengyang Wang*Jiawei Zhang
+Jiawei Zhang*Yuanhua Lv
+Guannan Liu*Tong Xu
+Guannan Liu*Hengshu Zhu
+Guannan Liu*Yuan Zuo
+Guannan Liu*Jia Guo
+Guannan Liu*Junjie Wu
+Yan Li*Jie Wang 0005
+Yan Li*Lu Wang 0004
+Carlotta Domeniconi*Guoxian Yu
+Carlotta Domeniconi*Jun Wang 0035
+Carlotta Domeniconi*Zili Zhang
+Carlotta Domeniconi*Xia Chen 0004
+Carlotta Domeniconi*Zhao Li
+Xiaosheng Li*Jessica Lin 0001
+Jessica Lin 0001*Yifeng Gao
+Chiranjib Bhattacharyya*Lavanya Sita Tekumalla
+Ruofei Zhang*Bin Gao
+Ruofei Zhang*Keng-hao Chang
+Kohei Miyaguchi*Kenji Yamanishi
+Kenji Yamanishi*Kai Morino
+Kenji Yamanishi*Hiroshi Murata
+Kenji Yamanishi*Ryo Asaoka
+Kenji Yamanishi*Hiroki Sugiura
+Kenji Yamanishi*Taichi Kiwaki
+Xingyu Cai*Sanguthevar Rajasekaran
+Sanguthevar Rajasekaran*Subrata Saha
+Hady Wirawan Lauw*Tuan M. V. Le
+Andrea Edwards*Kun Zhang
+Andrea Edwards*Ke Wu
+Kun Zhang*Ke Wu
+Kais Allab*Lazhar Labiod
+James Gerber*Kimberly Carlson
+James Gerber*Paul C. West
+Kimberly Carlson*Paul C. West
+Michael T. Lash*Qihang Lin
+Michael T. Lash*W. Nick Street
+Michael T. Lash*Jennifer G. Robinson
+Qihang Lin*W. Nick Street
+Qihang Lin*Jennifer G. Robinson
+W. Nick Street*Jennifer G. Robinson
+Peng Zhou*Liang Du
+Peng Zhou*Yi-Dong Shen
+Liang Du*Yi-Dong Shen
+Liang Du*Lei Shi
+Yi-Dong Shen*Lei Shi
+George Karypis*Evangelia Christakopoulou
+George Karypis*Saurav Manchanda
+Chia-Tung Kuo*Owen T. Carmichael
+Liudmila Ulanova*Nurjahan Begum
+Liudmila Ulanova*Chin-Chia Michael Yeh
+Liudmila Ulanova*Yifei Ding
+Jianpeng Xu*Kaixiang Lin
+Jianpeng Xu*Lifeng Luo
+John Moeller*Suresh Venkatasubramanian
+Suresh Venkatasubramanian*Sorelle A. Friedler
+Suresh Venkatasubramanian*Carlos Scheidegger
+Fang Jin*Rupinder Paul Khandpur
+Rupinder Paul Khandpur*Sathappan Muthiah
+Rupinder Paul Khandpur*Patrick Butler
+Rupinder Paul Khandpur*Parang Saraf
+Rupinder Paul Khandpur*Nathan Self
+Rupinder Paul Khandpur*Jose Cadena
+Rupinder Paul Khandpur*Achla Marathe
+Rupinder Paul Khandpur*Kristen Maria Summers
+Rupinder Paul Khandpur*Graham Katz
+Rupinder Paul Khandpur*Andy Doyle
+Rupinder Paul Khandpur*Jaime Arredondo
+Rupinder Paul Khandpur*David Mares
+Mohadeseh Ganji*Peter J. Stuckey
+Jeffrey Chan*Kotagiri Ramamohanarao
+Jeffrey Chan*Xuan Vinh Nguyen
+Jeffrey Chan*Yongli Ren
+Jeffrey Chan*Martin Tomko
+Jeffrey Chan*Yassien Shaalan
+Jeffrey Chan*Xiuzhen Zhang
+Kotagiri Ramamohanarao*Sarah M. Erfani
+Kotagiri Ramamohanarao*Xuan Vinh Nguyen
+Kotagiri Ramamohanarao*Rui Zhang 0003
+Kotagiri Ramamohanarao*Jianzhong Qi
+Huayu Li*Richang Hong
+Huayu Li*Yong Ge
+Huayu Li*Hengshu Zhu
+Huayu Li*Hongke Zhao
+Richang Hong*Yong Ge
+Zhiang Wu 0001*Guandong Xu
+Zhiang Wu 0001*Yaqiong Wang
+Zhiang Wu 0001*Junjie Wu
+Yong Ge*Danhuai Guo
+Yong Ge*Yuanchun Zhou
+Yong Ge*Jianhui Li
+Yong Ge*Zijun Yao
+Yong Ge*Hengshu Zhu
+Yong Ge*Yuan Ge
+Yong Ge*Hongke Zhao
+Yong Ge*Chuanren Liu
+Yong Ge*Keli Xiao
+Yong Ge*Chen Zhu
+Yong Ge*Defu Lian
+Yong Ge*Kai Zheng 0001
+Yong Ge*Longbing Cao
+Yong Ge*Yu Zheng 0004
+Yong Ge*Fuzheng Zhang
+Yong Ge*Nicholas Jing Yuan
+Peng Yang*Xiaoli Li 0001
+Xiaoli Li 0001*Xiaohuan Cao
+Xiaoli Li 0001*Chuan Shi
+Xiaoli Li 0001*Yuyan Zheng
+Huzefa Rangwala*Yue Ning
+Meng Fang*Dacheng Tao
+Dacheng Tao*Hongfu Liu
+Dacheng Tao*Junjie Wu
+Dacheng Tao*Dongjin Song
+Dacheng Tao*David A. Meyer 0001
+Dacheng Tao*Chang Xu 0002
+Dacheng Tao*Chao Xu 0006
+Dacheng Tao*Ya Li
+Dacheng Tao*Wei Xiong
+Dacheng Tao*Bo Du
+Dacheng Tao*Lefei Zhang
+Dacheng Tao*Ruimin Hu
+Dacheng Tao*Wei Bian
+Duen Horng Chau*Shang-Tse Chen
+Michael P. O'Brien*Blair D. Sullivan
+Alok N. Choudhary*Yu Cheng 0001
+Alok N. Choudhary*Ankit Agrawal
+Alok N. Choudhary*Wei-Keng Liao
+Mengdi Huai*Chenglin Miao
+Mengdi Huai*Qiuling Suo
+Chenglin Miao*Qiuling Suo
+Chenglin Miao*Lu Su
+Qiuling Suo*Fenglong Ma
+Qiuling Suo*Ye Yuan 0006
+Kaixiang Lin*Inci M. Baytas
+Jialu Liu*Quanquan Gu
+Quanquan Gu*Xiao Yu
+Quanquan Gu*Urvashi Khandelwal
+Lance M. Kaplan*Mengting Wan
+Lance M. Kaplan*Meng Jiang 0001
+Esther Galbrun*Aristides Gionis
+Behzad Golshan*Rakesh Agrawal 0001
+Aristides Gionis*Han Xiao
+Aristides Gionis*Polina Rozenshtein
+Aristides Gionis*Kiran Garimella
+Aristides Gionis*Gianmarco De Francisci Morales
+Aristides Gionis*Michael Mathioudakis
+Aristides Gionis*igdem Aslay
+Aristides Gionis*Antonis Matakos
+Lu An Tang*Zhengzhang Chen
+Lu An Tang*Haifeng Chen
+Zhengzhang Chen*Haifeng Chen
+Zhengzhang Chen*Guofei Jiang
+Haifeng Chen*Guofei Jiang
+Haifeng Chen*Dongjin Song
+Haifeng Chen*Wei Cheng
+Haifeng Chen*Wenchao Yu
+Haifeng Chen*Wei Wang
+Haifeng Chen*Tan Yan
+Zaiyi Chen*Linli Xu
+Linli Xu*Yitan Li
+Linli Xu*Nicholas Jing Yuan
+Linli Xu*Zhen Wang
+Linli Xu*Aiqing Huang
+Linli Xu*Qi Zhou
+Roland Assam*Thomas Seidl 0001
+Thomas Seidl 0001*Marwan Hassani
+Xinran He*David Kempe 0001
+Yijun Sun*Steve Goodison
+Yijun Sun*Qi Mao
+Yijun Sun*Li Wang 0033
+Steve Goodison*Qi Mao
+Steve Goodison*Li Wang 0033
+Qing Wang*Larisa Shwartz
+Qing Wang*Genady Ya. Grabarnik
+Qing Wang*Chunqiu Zeng
+Qing Wang*Jeffrey Fisher
+Qing Wang*Peter Christen
+Qing Wang*Dinusha Vatsalan
+Larisa Shwartz*Genady Ya. Grabarnik
+Wenchao Yu*Wei Wang
+Wenchao Yu*Wei Cheng
+Wei Wang*Wei Cheng
+Mohamed Kafsi*Matthias Grossglauser
+Mohamed Kafsi*Patrick Thiran
+Matthias Grossglauser*Patrick Thiran
+Kejun Huang*Xiao Fu 0001
+Erich Schubert*Hans-Peter Kriegel
+Erich Schubert*Michael Weiler
+Arlei Silva*Prithwish Basu
+Xiao Huang*Qingquan Song
+Yu Cheng 0001*Ankit Agrawal
+Ankit Agrawal*Wei-Keng Liao
+Prithwish Chakraborty*Bryan L. Lewis
+Prithwish Chakraborty*Madhav V. Marathe
+Bryan L. Lewis*Jiangzhuo Chen
+Bryan L. Lewis*Madhav V. Marathe
+Jiangzhuo Chen*Madhav V. Marathe
+Patrick Butler*Sathappan Muthiah
+Patrick Butler*Parang Saraf
+Patrick Butler*Nathan Self
+Patrick Butler*Jose Cadena
+Patrick Butler*Achla Marathe
+Patrick Butler*Kristen Maria Summers
+Patrick Butler*Graham Katz
+Patrick Butler*Andy Doyle
+Patrick Butler*Jaime Arredondo
+Patrick Butler*David Mares
+Jose Cadena*Sathappan Muthiah
+Jose Cadena*Parang Saraf
+Jose Cadena*Nathan Self
+Jose Cadena*Achla Marathe
+Jose Cadena*Kristen Maria Summers
+Jose Cadena*Graham Katz
+Jose Cadena*Andy Doyle
+Jose Cadena*Jaime Arredondo
+Jose Cadena*David Mares
+Zhao Kang*Qiang Cheng
+Zhao Kang*Chong Peng
+Qiang Cheng*Chong Peng
+Yi Ding*Daoqiang Zhang
+Daoqiang Zhang*Muhammad Yousefnezhad
+Bokai Cao*Xiaokai Wei
+Bokai Cao*Alex D. Leow
+Bokai Cao*Mia Mao
+Bokai Cao*Siim Viidu
+Subhabrata Mukherjee*Gerhard Weikum
+Wei Fan*Jingchao Ni
+Wei Fan*Hongliang Fei
+Wei Fan*Xiang Zhang 0001
+Matthijs van Leeuwen*Siegfried Nijssen
+Xiaowei Yang*Zhifeng Hao
+Zhifeng Hao*Zhenjie Zhang
+Danhuai Guo*Yuanchun Zhou
+Danhuai Guo*Jianhui Li
+Yuanchun Zhou*Jianhui Li
+Bin Liu 0020*Zijun Yao
+Bin Liu 0020*Yanchi Liu
+Zijun Yao*Yu Zheng 0004
+Zijun Yao*Yanchi Liu
+Ioakeim Perros*Richard W. Vuduc
+Ioakeim Perros*Jimeng Sun
+Richard W. Vuduc*Jimeng Sun
+Jimeng Sun*Edward Choi
+Jimeng Sun*Mohammad Taha Bahadori
+Jimeng Sun*Le Song
+Jimeng Sun*Walter F. Stewart
+Jimeng Sun*Elizabeth Searles
+Jimeng Sun*Michael Thompson
+Jimeng Sun*Robert Chen
+Jingbo Shang*Jian Peng 0001
+Jingbo Shang*Wenzhu Tong
+Jingbo Shang*Yong Yu
+Alceu Ferraz Costa*Agma Juci Machado Traina
+Alceu Ferraz Costa*Caetano Traina Jr.
+Yan Zhao*Xiao Fang
+Yan Zhao*David Simchi-Levi
+Xiao Fang*David Simchi-Levi
+Wenbin Cai*Ya Zhang 0002
+Nils M. Kriege*Petra Mutzel
+Nils M. Kriege*Kristian Kersting
+Petra Mutzel*Christopher Morris 0001
+Petra Mutzel*Kristian Kersting
+Mengting Wan*Julian McAuley
+Julian McAuley*Wang-Cheng Kang
+Julian McAuley*Ruining He
+Sarah M. Erfani*Sutharshan Rajasegarar
+Sarah M. Erfani*Shanika Karunasekera
+Sarah M. Erfani*Shuo Zhou
+Sriraam Natarajan*Gautam Kunapuli
+Sriraam Natarajan*Tushar Khot
+Sriraam Natarajan*Kristian Kersting
+Qi Mao*Li Wang 0033
+Huan Liu*Kai Shu
+Gerhard Weikum*Niket Tandon
+Lei Cen*Deguang Kong
+Luo Si*Shichen Liu
+Luo Si*Wenwu Ou
+Yangyang Hou*Joyce Jiyoung Whang
+Yangyang Hou*Inderjit S. Dhillon
+Joyce Jiyoung Whang*Inderjit S. Dhillon
+Inderjit S. Dhillon*Si Si
+Mahito Sugiyama*pez
+Mahito Sugiyama*Karsten M. Borgwardt
+pez*Karsten M. Borgwardt
+pez*nez
+Bogdan Cautis*Silviu Maniu
+Michalis Vazirgiannis*Fragkiskos D. Malliaros
+Muhao Chen*Carlo Zaniolo
+Carlo Zaniolo*Ariyam Das
+Dae Hoon Park*Lifan Guo
+Ivan Marsic*Sen Yang
+Ivan Marsic*Randall S. Burd
+Wei Wei*Aman Ahuja
+Wei Wei*Kathleen M. Carley
+Longbing Cao*Guansong Pang
+Longbing Cao*Ling Chen
+Longbing Cao*Defu Lian
+Longbing Cao*Kai Zheng 0001
+Longbing Cao*Guandong Xu
+Neil Shah*Mohit Kumar
+Neil Shah*Disha Makhija
+Neil Shah*Brian Gallagher
+Neil Shah*Maria Giatsoglou
+Neil Shah*Despoina Chatzakou
+Neil Shah*Athena Vakali
+Mohit Kumar*Disha Makhija
+Diego Furtado Silva*Gustavo E. A. P. A. Batista
+Gustavo E. A. P. A. Batista*Denis Moreira dos Reis
+Antonio C. Fraideinberze*Robson L. F. Cordeiro
+Robson L. F. Cordeiro* F. Rodrigues Jr.
+Hengshu Zhu*Tong Xu
+Hengshu Zhu*Hao Zhong
+Hengshu Zhu*Chen Zhu
+Hengshu Zhu*Huang Xu
+Hengshu Zhu*Zhiwen Yu 0001
+Hengshu Zhu*Jingyuan Yang
+Hengshu Zhu*Chuanren Liu
+Hengshu Zhu*Keli Xiao
+Boris Cule*Bart Goethals
+Ou Wu*Weiming Hu
+Chang Xu 0003*Jie Zhang 0002
+Manuel Gomez-Rodriguez*Le Song
+Manuel Gomez-Rodriguez*Utkarsh Upadhyay
+Manuel Gomez-Rodriguez*Isabel Valera
+Michael Mathioudakis*Kiran Garimella
+Michael Mathioudakis*Gianmarco De Francisci Morales
+Yuanyuan Liu*Fanhua Shang
+Yuanyuan Liu*Hong Cheng
+Yuanyuan Liu*James Cheng
+Fanhua Shang*Hong Cheng
+Fanhua Shang*James Cheng
+Hong Cheng*James Cheng
+Hong Cheng*Yu Rong
+Xiaokai Wei*Linchuan Xu
+Xiaokai Wei*Jiannong Cao
+Arnaud Giacometti*Arnaud Soulet
+Arnaud Giacometti*Dominique Haoyuan Li
+Arnaud Soulet*Dominique Haoyuan Li
+Jaime G. Carbonell*Yiming Yang
+Fei Tan*Haoran Liu
+Fei Tan*Chaoran Cheng
+Kuang Du*Chenguang Qin
+Austin R. Benson*Jure Leskovec
+Austin R. Benson*Ravi Kumar 0001
+Austin R. Benson*Andrew Tomkins
+Austin R. Benson*Hao Yin
+Jure Leskovec*Himabindu Lakkaraju
+Jure Leskovec*Jon M. Kleinberg
+Jure Leskovec*Sendhil Mullainathan
+Jure Leskovec*David Hallac
+Jure Leskovec*Stephen P. Boyd
+Jure Leskovec*Julian J. McAuley
+Jure Leskovec*Hao Yin
+Jure Leskovec*Ashwin Paranjape
+Jure Leskovec*Robert West 0001
+Rui Chen*Jianliang Xu
+Rui Chen*Qian Xiao
+Nicola Barbieri*Francesco Bonchi
+Francesco Bonchi*Francesco Gullo
+Francesco Bonchi*Mauro Sozio
+Jason Lines*Anthony J. Bagnall
+Yingyu Liang*Maria-Florina Balcan
+Anni Coden*Daniel Gruhl
+Linda Kato*Meena Nagarajan
+Linda Kato*Angela D. Wilkins
+Linda Kato*Benjamin J. Bachman
+Linda Kato*Peter J. Haas
+Linda Kato*Jacques J. Labrie
+Linda Kato*Sam Regenbogen
+Linda Kato*Curtis R. Pickering
+Linda Kato*Andreas Martin Lisewski
+Linda Kato*Ana Lelescu
+Linda Kato*Ying Chen 0001
+Linda Kato*Lawrence A. Donehower
+Linda Kato*W. Scott Spangler
+Linda Kato*Olivier Lichtarge
+Panagiotis Mandros*Mario Boley
+Mehrdad Farajtabar*Le Song
+Mehrdad Farajtabar*Hongyuan Zha
+Le Song*Edward Choi
+Ryan Meekins*Stephen C. Adams
+Ryan Meekins*Peter A. Beling
+Stephen C. Adams*Peter A. Beling
+Lu Su*Qi Li 0012
+Lu Su*Fenglong Ma
+Lu Su*Yaqing Wang
+Lu Su*Ye Yuan 0006
+Lu Su*Guangxu Xun
+Lu Su*Bo Zhao 0001
+Qi Li 0012*Fenglong Ma
+Qi Li 0012*Bo Zhao 0001
+Qi Li 0012*Shi Zhi
+Fenglong Ma*Yaqing Wang
+Fenglong Ma*Ye Yuan 0006
+Fenglong Ma*Guangxu Xun
+Fenglong Ma*Quanzeng You
+Fenglong Ma*Jing Zhou
+Minghui Qiu*Liu Yang 0005
+Minghui Qiu*Jun Huang
+Minghui Qiu*Wei Chu
+Minghui Qiu*Haiqing Chen
+Chunsheng Victor Fang*Derek Lin
+Derek Lin*Qiaona Hu
+Derek Lin*Baoming Tang
+Xiang Wang 0001*Buyue Qian
+Buyue Qian*Changchang Yin
+Buyue Qian*Shilei Cao
+Buyue Qian*Xiaoyu Li
+Buyue Qian*Jishang Wei
+Yu Shi*Huan Gui
+Yu Shi*Qi Zhu
+Himabindu Lakkaraju*Jon M. Kleinberg
+Himabindu Lakkaraju*Sendhil Mullainathan
+Jon M. Kleinberg*Sendhil Mullainathan
+Weitong Chen*Sen Wang
+Weitong Chen*Lina Yao
+Sen Wang*Lina Yao
+Sen Wang*Xue Li 0001
+Sen Wang*Quan Z. Sheng
+Lina Yao*Xue Li 0001
+Lina Yao*Quan Z. Sheng
+Xue Li 0001*Quan Z. Sheng
+Natali Ruchansky*Mark Crovella
+Min-Ling Zhang*Xu-Ying Liu
+Tong Xu*Hao Zhong
+Tong Xu*Xiangyu Zhao
+Ming Shao*Hongfu Liu
+U. Kang*Ha-Myung Park
+U. Kang*Sung-Hyon Myaeng
+U. Kang*Saehan Jo
+U. Kang*Jaemin Yoo
+Matteo Riondato*Fabio Vandin
+Matteo Riondato*Eli Upfal
+Qingyao Wu*Jiezhang Cao
+Qingyao Wu*Mingkui Tan
+Qingyao Wu*Jian Chen 0011
+Zhengyang Wang*Shuiwang Ji
+Zhengyang Wang*Hongyang Gao
+Shuiwang Ji*Hongyang Gao
+Shuiwang Ji*Lei Cai
+Shuiwang Ji*Dinggang Shen
+Shuiwang Ji*Qian Sun
+Shuiwang Ji*Tao Zeng
+Hongliang Fei*Jingchao Ni
+Hongliang Fei*Xiang Zhang 0001
+Hongfu Liu*Junjie Wu
+Junjie Wu*Yuan Zuo
+Junjie Wu*Hui Zhang 0028
+Junjie Wu*Hao Lin
+Junjie Wu*Ke Xu 0001
+Junjie Wu*Jia Guo
+Junjie Wu*Jingyuan Wang
+Junjie Wu*Zhang Xiong
+Junjie Wu*Yaqiong Wang
+Xiangliang Zhang*Basma Alharbi
+Xiangliang Zhang*Shangsong Liang
+Shajith Ikbal*Bikram Sengupta
+Rohit Babbar*lkopf
+lkopf*Biwei Huang
+lkopf*Kun Zhang 0001
+lkopf*Clark Glymour
+Tushar Khot*Kristian Kersting
+Kristian Kersting*Christopher Morris 0001
+Abdullah Mueen*Chin-Chia Michael Yeh
+Abdullah Mueen*Yan Zhu 0014
+Abdullah Mueen*Hossein Hamooni
+Abdullah Mueen*Nikan Chavoshi
+Ruilin Liu*Wendy Hui Wang
+Chenguang Wang*Yangqiu Song
+Chenguang Wang*Ming Zhang 0004
+Yangqiu Song*Ming Zhang 0004
+s Torgo*Nuno Moniz
+s Torgo*Paula Branco
+Fei Jiang*Jin Xu 0002
+Martin Wistuba*Nicolas Schilling
+Martin Wistuba*Lars Schmidt-Thieme
+Martin Wistuba*Josif Grabocka
+Nicolas Schilling*Lars Schmidt-Thieme
+Lars Schmidt-Thieme*Josif Grabocka
+Lars Schmidt-Thieme*go Drumond
+Guoxian Yu*Jun Wang 0035
+Guoxian Yu*Zili Zhang
+Guoxian Yu*Xia Chen 0004
+Guoxian Yu*Zhao Li
+Jun Wang 0035*Zili Zhang
+Jun Wang 0035*Xia Chen 0004
+Jun Wang 0035*Zhao Li
+Zili Zhang*Mingxin Liang
+Zili Zhang*Chao Gao
+Zili Zhang*Xianghua Li
+Zili Zhang*Xia Chen 0004
+Zili Zhang*Zhao Li
+Masaaki Nishino*Norihito Yasuda
+Masaaki Nishino*Shin-ichi Minato
+Norihito Yasuda*Shin-ichi Minato
+Shin-ichi Minato*Takahisa Toda
+Si Zhang*Dawei Zhou
+Si Zhang*Mehmet Yigit Yildirim
+Si Zhang*Scott Alcorn
+Si Zhang*Hasan Davulcu
+Dawei Zhou*Mehmet Yigit Yildirim
+Dawei Zhou*Scott Alcorn
+Dawei Zhou*Hasan Davulcu
+Mehmet Yigit Yildirim*Scott Alcorn
+Mehmet Yigit Yildirim*Hasan Davulcu
+Scott Alcorn*Hasan Davulcu
+Yale Chang*Michael H. Cho
+Yale Chang*Peter J. Castaldi
+Yale Chang*Edwin K. Silverman
+Michael H. Cho*Peter J. Castaldi
+Michael H. Cho*Edwin K. Silverman
+Peter J. Castaldi*Edwin K. Silverman
+Yun Xiong*Yangyong Zhu
+Michael Kamp*rtner
+Claudia Plant*Samuel Maurus
+Claudia Plant*Xiao He 0002
+Claudia Plant*Wei Ye
+Claudia Plant*Linfei Zhou
+Claudia Plant*Dominik Mautz
+Claudia Plant*Sebastian Goebl
+Claudia Plant*Nina Hubig
+Claudia Plant*Benjamin Schelling
+Xiuzhen Zhang*Yassien Shaalan
+Kai Ming Ting*Yue Zhu
+Kai Ming Ting*Zhi-Hua Zhou
+Kai Ming Ting*Ye Zhu
+Kai Ming Ting*Sunil Aryal
+Kai Ming Ting*Jonathan R. Wells
+Kai Ming Ting*David W. Albrecht
+Yue Zhu*Zhi-Hua Zhou
+Zhi-Hua Zhou*Xin Mu
+Zhi-Hua Zhou*Peng Zhao
+Jianfeng Zhang*Cheng He
+Cheng He*Albert Bifet
+Cheng He*Jianfeng Qian
+Zhenya Huang*Guoping Hu
+Fuzheng Zhang*Xing Xie
+Fuzheng Zhang*Nicholas Jing Yuan
+Fuzheng Zhang*Defu Lian
+Fuzheng Zhang*Wei-Ying Ma
+Fuzheng Zhang*Yuan Zhong
+Fuzheng Zhang*Yong Rui
+Xing Xie*Chuhan Wu
+Xing Xie*Fangzhao Wu
+Xing Xie*Junxin Liu
+Xing Xie*Yongfeng Huang
+Xing Xie*Zhigang Yuan
+Jian Tang*Qiaozhu Mei
+Jian Tang*Meng Qu
+Yue Wang*Qiaozhu Mei
+Qiaozhu Mei*Cheng Li
+Yu Sun 0021*Rui Zhang 0003
+Yu Sun 0021*Jianzhong Qi
+Nicholas Jing Yuan*Yingzi Wang
+Nicholas Jing Yuan*Defu Lian
+Nicholas Jing Yuan*Yong Rui
+Nicholas Jing Yuan*Wei-Ying Ma
+Nicholas Jing Yuan*Yuan Zhong
+Rui Zhang 0003*Jianzhong Qi
+Wannes Meert*Jesse Davis
+Jesse Davis*Jan Van Haaren
+Defu Lian*Yong Rui
+Defu Lian*Guangzhong Sun
+Defu Lian*Yan Zhang 0036
+Defu Lian*Ivor W. Tsang
+Defu Lian*Hongzhi Yin
+Defu Lian*Guowu Yang
+Defu Lian*Kai Zheng 0001
+David Hallac*Stephen P. Boyd
+Hongyang Gao*Lei Cai
+Hongyang Gao*Dinggang Shen
+Lei Cai*Dinggang Shen
+Tomoharu Iwata*Takeshi Kurashima
+Tomoharu Iwata*Hiroshi Sawada
+Nan Cao*Lu Lu
+Kristina Lerman*Farshad Kooti
+Kristina Lerman*Mihajlo Grbovic
+Kristina Lerman*Luca Maria Aiello
+Deepak Agarwal*Bee-Chung Chen
+Deepak Agarwal*Yiming Ma
+Deepak Agarwal*Pannagadatta Shivaswamy
+Deepak Agarwal*Liang Zhang
+Deepak Agarwal*Souvik Ghosh
+Deepak Agarwal*Bo Long
+Bee-Chung Chen*Yiming Ma
+Bee-Chung Chen*Pannagadatta Shivaswamy
+Bee-Chung Chen*Liang Zhang
+Yiming Ma*Pannagadatta Shivaswamy
+Yiming Ma*Liang Zhang
+Pannagadatta Shivaswamy*Liang Zhang
+Liang Zhang*Krishnaram Kenthapadi
+Ian Fox*Lynn Ang
+Ian Fox*Mamta Jaiswal
+Ian Fox*Rodica Pop-Busui
+Ian Fox*Jenna Wiens
+Lynn Ang*Mamta Jaiswal
+Lynn Ang*Rodica Pop-Busui
+Lynn Ang*Jenna Wiens
+Mamta Jaiswal*Rodica Pop-Busui
+Mamta Jaiswal*Jenna Wiens
+Rodica Pop-Busui*Jenna Wiens
+Xiaofeng Gao*Guihai Chen
+Yi Tay*Anh Tuan Luu
+Yi Tay*Siu Cheung Hui
+Yi Tay*Luu Anh Tuan
+Anh Tuan Luu*Siu Cheung Hui
+Siu Cheung Hui*Luu Anh Tuan
+Qingwei Lin*Jian-Guang Lou
+Qingwei Lin*Hongyu Zhang 0002
+Qingwei Lin*Dongmei Zhang
+Qingwei Lin*Qiang Fu
+Qingwei Lin*Rui Ding
+Jian-Guang Lou*Hongyu Zhang 0002
+Jian-Guang Lou*Dongmei Zhang
+Jian-Guang Lou*Qiang Fu
+Jian-Guang Lou*Rui Ding
+Hongyu Zhang 0002*Dongmei Zhang
+Dongmei Zhang*Qiang Fu
+Dongmei Zhang*Rui Ding
+David Pardoe*Kun Liu
+Bin Fu*Zhengshen Jiang
+Bin Fu*Hongzhi Liu
+Bin Fu*Zhonghai Wu
+Yasuko Matsubara*Yasushi Sakurai
+Rayid Ghani*Joe Walsh
+Rayid Ghani*Klaus Ackermann
+Rayid Ghani*Crystal Cody
+Rayid Ghani*Lauren Haynes
+Xulei Yang*Zeng Zeng
+Xulei Yang*Sin G. Teo
+Zeng Zeng*Sin G. Teo
+Weiqing Liu*Jiang Bian
+Weiqing Liu*Tie-Yan Liu
+Jiang Bian*Tie-Yan Liu
+Jiang Bian*Haoyi Xiong
+Jiang Bian*Wei Cheng
+Jiang Bian*Wenqing Hu
+Jiang Bian*Zhishan Guo
+Hongchang Gao*Heng Huang
+Heng Huang*Xiaoqian Wang
+Heng Huang*Feiping Nie
+Heng Huang*De Wang
+Heng Huang*Bin Gu
+Heng Huang*Zhouyuan Huo
+Heng Huang*Kamran Ghasedi Dizaji
+Yasuo Tabei*Hiroto Saigo
+Yu Zheng 0004*Eric Chang
+Yan Zheng*Jeff M. Phillips
+Yujie Fan*Yiming Zhang
+Yujie Fan*Yanfang Ye
+Shifu Hou*Yanfang Ye
+Shifu Hou*Melih Abdulhayoglu
+Yiming Zhang*Yanfang Ye
+Yanfang Ye*Melih Abdulhayoglu
+Ali Dasdan*Jianqiang Shen
+Ali Dasdan*Sahin Cem Geyik
+Ali Dasdan*Shahriar Shariat
+Ali Dasdan*Burkay Orten
+Dongjin Song*Wei Cheng
+Dongjin Song*David A. Meyer 0001
+Wei Cheng*Yuchen Bian
+Wei Cheng*Xiang Zhang 0001
+Wei Cheng*Haoyi Xiong
+Wei Cheng*Wenqing Hu
+Wei Cheng*Zhishan Guo
+Wei Cheng*Jingchao Ni
+Lu Zhang 0021*Yongkai Wu
+Lu Zhang 0021*Xintao Wu
+Yongkai Wu*Xintao Wu
+Xintao Wu*Shuhan Yuan
+Xintao Wu*Yang Xiang
+Xintao Wu*Yuemeng Li
+Xintao Wu*Aidong Lu
+Xintao Wu*Leting Wu
+Mohammad Taha Bahadori*Edward Choi
+Reynold Cheng*Zhipeng Huang 0001
+Junming Shao*Qinli Yang
+Stefan Kramer 0001*rg Wicker
+Peter Lofgren*Siddhartha Banerjee
+Peter Lofgren*Ashish Goel
+Siddhartha Banerjee*Ashish Goel
+Yizhou Yan*Lei Cao
+Yizhou Yan*Elke A. Rundensteiner
+Lei Cao*Elke A. Rundensteiner
+Elke A. Rundensteiner*Xiao Qin 0003
+Peng Cui 0001*Xiao Wang
+Peng Cui 0001*Wenwu Zhu 0001
+Peng Cui 0001*Meng Jiang 0001
+Peng Cui 0001*Shiqiang Yang
+Peng Cui 0001*Kun Kuang
+Peng Cui 0001*Linyun Yu
+Peng Cui 0001*Chaoming Song
+Peng Cui 0001*Tianyang Zhang
+Peng Cui 0001*Ziwei Zhang
+Peng Cui 0001*Mingdong Ou
+Peng Cui 0001*Daixin Wang
+Peng Cui 0001*Chengxi Zang
+Peng Cui 0001*Yunfei Lu
+Xiao Wang*Wenwu Zhu 0001
+Xiao Wang*Ziwei Zhang
+Wenwu Zhu 0001*Shiqiang Yang
+Wenwu Zhu 0001*Ziwei Zhang
+Wenwu Zhu 0001*Mingdong Ou
+Wenwu Zhu 0001*Daixin Wang
+Wenwu Zhu 0001*Chengxi Zang
+Wenwu Zhu 0001*Tianyang Zhang
+Wenwu Zhu 0001*Yunfei Lu
+Issei Sato*Hiroshi Nakagawa
+Mustafa Coskun*rk
+Purushottam Kar*Harikrishna Narasimhan
+Meng Jiang 0001*Shiqiang Yang
+Meng Jiang 0001*Timothy P. Hanratty
+Meng Jiang 0001*Kun Kuang
+Meng Jiang 0001*Chao Zhang 0014
+Meng Jiang 0001*Fangbo Tao
+Meng Jiang 0001*Xiusi Chen
+Shiqiang Yang*Kun Kuang
+Shiqiang Yang*Linyun Yu
+Shiqiang Yang*Chaoming Song
+Shiqiang Yang*Tianyang Zhang
+Chao Zhang 0014*Quan Yuan 0001
+Chao Zhang 0014*Jiaming Shen
+Chao Zhang 0014*Dongming Lei
+Chao Zhang 0014*Brian M. Sadler
+Chao Zhang 0014*Fangbo Tao
+Chao Zhang 0014*Xiusi Chen
+Chao Zhang 0014*Tim Hanratty
+Mingxuan Sun*Jin Shang
+Joe Walsh*Crystal Cody
+Joe Walsh*Lauren Haynes
+Zemin Liu*Vincent W. Zheng
+Vincent W. Zheng*Hongxia Yang
+Vincent W. Zheng*Kevin Chen-Chuan Chang
+Vincent W. Zheng*Yuan Fang
+Zhao Li*Xia Chen 0004
+Hongxia Yang*Quan Lu
+Zhiyuan Chen 0001*Bing Liu 0001
+Bing Liu 0001*Shuai Wang
+Bing Liu 0001*Geli Fei
+Bing Liu 0001*Sherry Emery
+Bing Liu 0001*Huayi Li
+Kevin Chen-Chuan Chang*Yuan Fang
+Takuya Akiba*Yosuke Yano
+Mirela Madalina Botezatu*Jasmina Bogojeska
+Mirela Madalina Botezatu*Ioana Giurgiu
+Mirela Madalina Botezatu*Dorothea Wiesmann
+Jasmina Bogojeska*Ioana Giurgiu
+Jasmina Bogojeska*Dorothea Wiesmann
+Ioana Giurgiu*Dorothea Wiesmann
+Yu Zhang 0006*Lei Han 0001
+Yu Zhang 0006*Tong Zhang 0001
+ric Gaussier*Massih-Reza Amini
+mer Rosales*Shaunak Chatterjee
+mer Rosales*Shipeng Yu
+Thorsten Joachims*Shuo Chen
+Thorsten Joachims*Aman Agarwal
+Thorsten Joachims*Tobias Schnabel
+Thorsten Joachims*Paul N. Bennett
+Hong-Han Shuai*De-Nian Yang
+Hong-Han Shuai*Liang-Hao Huang
+Hong-Han Shuai*Yu Ting Wen
+Hong-Han Shuai*Wen-Chih Peng
+De-Nian Yang*Liang-Hao Huang
+De-Nian Yang*Chih-Ya Shen
+Nanyu Chen*Ya Xu
+Takanori Maehara*Ken-ichi Kawarabayashi
+Kai Morino*Hiroshi Murata
+Kai Morino*Ryo Asaoka
+Hiroshi Murata*Ryo Asaoka
+Hiroshi Murata*Hiroki Sugiura
+Hiroshi Murata*Taichi Kiwaki
+Ryo Asaoka*Hiroki Sugiura
+Ryo Asaoka*Taichi Kiwaki
+Mengying Sun*Liang Zhan
+Quan Yuan 0001*Tim Hanratty
+Hasan Poonawala*Sebastien Blandin
+Hasan Poonawala*Laura Wynter
+Sebastien Blandin*Laura Wynter
+Varun R. Embar*Indrajit Bhattacharya
+Sorelle A. Friedler*Carlos Scheidegger
+Shi Zhi*Bo Zhao 0001
+Shi Zhi*Heng Ji
+Bo Zhao 0001*Heng Ji
+Rodolphe Jenatton*dric Archambeau
+Cheng-Hao Tsai*Chieh-Yen Lin
+Meng Qu*Junming Liu
+Junming Liu*Leilei Sun
+Junming Liu*Weiwei Chen 0003
+Junming Liu*Jingci Ming
+Junming Liu*Qiao Li
+Leilei Sun*Chuanren Liu
+Leilei Sun*Jingci Ming
+Chuanren Liu*Keli Xiao
+Chuanren Liu*Yanchi Liu
+Chuanren Liu*Mingfei Teng
+Chuanren Liu*Jingyuan Yang
+Alex Deng*Jiannan Lu
+Shupeng Wang*Xiaoyu Zhang 0002
+Han Zhu*Han Li
+Han Zhu*Kun Gai
+Han Zhu*Junqi Jin
+Han Li*Kun Gai
+Han Li*Junqi Jin
+Kun Gai*Junqi Jin
+Brendan Kitts*Dyng Au
+Tobias Schnabel*Paul N. Bennett
+Bin Wu 0001*Chuan Shi
+Bin Wu 0001*Bai Wang 0001
+Bin Wu 0001*Jing Zheng
+Bin Wu 0001*Xiaohuan Cao
+Bin Wu 0001*Yuyan Zheng
+Bin Wu 0001*Jingzhi Li
+Bin Wu 0001*Xiaoming Li
+Chuan Shi*Binbin Hu
+Chuan Shi*Jing Zheng
+Chuan Shi*Xiaohuan Cao
+Chuan Shi*Yuyan Zheng
+Chuan Shi*Jingzhi Li
+Chuan Shi*Jian Liu
+Sagar Jain*Ed H. Chi
+Sagar Jain*Paul Covington
+Ed H. Chi*Paul Covington
+Quoc Viet Hung Nguyen*Hongxu Chen
+Quoc Viet Hung Nguyen*Hongzhi Yin
+Quoc Viet Hung Nguyen*Hao Wang
+Linyun Yu*Chaoming Song
+Linyun Yu*Tianyang Zhang
+Chaoming Song*Tianyang Zhang
+Tianyang Zhang*Yunfei Lu
+Feiping Nie*Xuelong Li
+Feiping Nie*Xiaoqian Wang
+Feiping Nie*De Wang
+Yuan Yao 0001*Jian Lu 0001
+Yuan Yao 0001*Feng Xu 0007
+Jian Lu 0001*Feng Xu 0007
+Yiqun Liu*Jiyin He
+Yiqun Liu*Min Zhang 0006
+Yiqun Liu*Shaoping Ma
+Yiqun Liu*Min Zhang
+Krishnaram Kenthapadi*Fedor Borisyuk
+Mong-Li Lee*Wynne Hsu
+Daniel Kifer*Jaewoo Lee
+Rui Yan*Dongyan Zhao 0001
+Rui Yan*Cheng-Te Li
+Bang Zhang*Fang Chen
+Yang Wang*Fang Chen
+Yang Wang*Xuhui Fan
+Fang Chen*Mojgan Ghanavati
+Fang Chen*Raymond K. Wong
+Fang Chen*Wei Liu 0007
+Fang Chen*Yang Wang 0002
+Fang Chen*Mohammad Ebrahimi
+Fang Chen*Elaheh ShafieiBavani
+Fang Chen*Xuhui Fan
+Fang Chen*Nguyen Lu Dang Khoa
+Fang Chen*Samir Mustapha
+Jinoh Oh*Hwanjo Yu
+Jinoh Oh*Kijung Shin
+Hwanjo Yu*Xiaoqian Jiang
+Yukihiro Tagami*Shingo Ono
+Yukihiro Tagami*Akira Tajima
+Shingo Ono*Akira Tajima
+Geoff Holmes*Albert Bifet
+Geoff Holmes*Bernhard Pfahringer
+Jun Wang 0012*Bowei Chen
+Jun Wang 0012*Weinan Zhang
+Jun Wang 0012*Kan Ren
+Jun Wang 0012*Yong Yu 0001
+Jun Wang 0012*Yifei Rong
+Jun Wang 0012*Han Cai
+Meelis Kull*-Nieto
+Meelis Kull*Peter A. Flach
+-Nieto*Peter A. Flach
+Eli Upfal*Ahmad Mahmoody
+Hiroki Sugiura*Taichi Kiwaki
+Lei Han 0001*Tong Zhang 0001
+Yaqing Wang*Ye Yuan 0006
+Yaqing Wang*Guangxu Xun
+Yaqing Wang*Kishlay Jha
+Yaqing Wang*Chunyan Feng
+Yaqing Wang*Caili Guo
+Yaqing Wang*Yunfei Chu
+Yaqing Wang*Jenq-Neng Hwang
+Ye Yuan 0006*Guangxu Xun
+Ye Yuan 0006*Kebin Jia
+Guangxu Xun*Kishlay Jha
+Guangxu Xun*Vishrawas Gopalakrishnan
+Guangxu Xun*Kebin Jia
+Kishlay Jha*Vishrawas Gopalakrishnan
+Inci M. Baytas*Anil K. Jain 0001
+Jinyang Gao*Beng Chin Ooi
+Mihajlo Grbovic*Vladan Radosavljevic
+Mihajlo Grbovic*Narayan Bhamidipati
+Mihajlo Grbovic*Farshad Kooti
+Mihajlo Grbovic*Luca Maria Aiello
+Yu Zheng*Yanhua Li
+Ha-Myung Park*Sung-Hyon Myaeng
+Yin Lou*Johannes Gehrke
+Alexey Drutsa*Gleb Gusev
+Alexey Drutsa*Pavel Serdyukov
+Gleb Gusev*Pavel Serdyukov
+Weinan Zhang*Kan Ren
+Weinan Zhang*Yong Yu 0001
+Weinan Zhang*Yifei Rong
+Weinan Zhang*Han Cai
+Amr Ahmed*Vanja Josifovski
+Amr Ahmed*Alexander J. Smola
+Amr Ahmed*Daniel Silva
+Amr Ahmed*Yuan Wang
+Jie Yang*Vanja Josifovski
+Vanja Josifovski*Alexander J. Smola
+Vanja Josifovski*Michael Bendersky
+Vanja Josifovski*Lluis Garcia Pueyo
+Alexander J. Smola*Mu Li
+Alexander J. Smola*Chao-Yuan Wu
+Alexander J. Smola*Yu-Xiang Wang
+Alexander J. Smola*How Jing
+Bernhard Pfahringer*Albert Bifet
+Ping Li 0001*Jie Gui
+Ping Li 0001*Jun Hu
+Robinson Piramuthu*Anurag Bhardwaj
+Robinson Piramuthu*Wei Di
+Robinson Piramuthu*Neel Sundaresan
+Anurag Bhardwaj*Wei Di
+Anurag Bhardwaj*Neel Sundaresan
+Wei Di*Neel Sundaresan
+Yuan Zuo*Hui Zhang 0028
+Yuan Zuo*Hao Lin
+Yuan Zuo*Ke Xu 0001
+Yuan Zuo*Jia Guo
+Hui Zhang 0028*Hao Lin
+Hui Zhang 0028*Ke Xu 0001
+Hui Zhang 0028*Deqing Wang
+Hui Zhang 0028*Rui Liu
+Hao Lin*Ke Xu 0001
+ctor Ruiz*Paul Power
+ctor Ruiz*Xinyu Wei
+ctor Ruiz*Patrick Lucey
+Paul Power*Xinyu Wei
+Paul Power*Patrick Lucey
+Xinyu Wei*Patrick Lucey
+Patrick Lucey*Peter Carr 0001
+Patrick Lucey*Sridha Sridharan
+Patrick Lucey*Yisong Yue
+Patrick Lucey*Alina Bialkowski
+Patrick Lucey*Iain A. Matthews
+Shangsong Liang*Zhaochun Ren
+Shangsong Liang*Maarten de Rijke
+Shangsong Liang*Evangelos Kanoulas
+Shangsong Liang*Piji Li
+Zhaochun Ren*Maarten de Rijke
+Zhaochun Ren*Piji Li
+Zhaochun Ren*Ziheng Jiang
+Zhaochun Ren*Dawei Yin
+Maarten de Rijke*Piji Li
+Maarten de Rijke*Mostafa Dehghani 0001
+Maarten de Rijke*Ilya Markov
+Maarten de Rijke*Shimon Whiteson
+Maarten de Rijke*Masrour Zoghi
+Chunqiu Zeng*Wei Xue
+Chunqiu Zeng*Wubai Zhou
+Chunqiu Zeng*Zheng Liu
+Wei Xue*Wubai Zhou
+Wubai Zhou*Zheng Liu
+Zhaobin Kuang*Peggy L. Peissig
+Zhaobin Kuang*David Page
+Peggy L. Peissig*David Page
+Qing Da*Yang Yu 0001
+Heng-Tze Cheng*Zakaria Haque
+Heng-Tze Cheng*Mustafa Ispir
+Heng-Tze Cheng*Clemens Mewald
+Heng-Tze Cheng*Martin Wicke
+Zakaria Haque*Mustafa Ispir
+Zakaria Haque*Clemens Mewald
+Zakaria Haque*Martin Wicke
+Mustafa Ispir*Clemens Mewald
+Mustafa Ispir*Martin Wicke
+Clemens Mewald*Martin Wicke
+Zhuoye Ding*Dawei Yin
+Dawei Yin*Pengyuan Wang
+Dawei Yin*Ziheng Jiang
+Dawei Yin*Bin Cao 0001
+Dawei Yin*Jian-Tao Sun
+Dawei Yin*Brian D. Davison 0001
+Atanu R. Sinha*Sopan Khosla
+Jun Zhou*Xiaolong Li
+Jun Zhou*Chaochao Chen
+Jun Zhou*Longfei Li
+Jun Zhou*Xinxing Yang
+Xiaolong Li*Chaochao Chen
+Xiaolong Li*Longfei Li
+Xiaolong Li*Xinxing Yang
+Chaochao Chen*Longfei Li
+Chaochao Chen*Xinxing Yang
+Xu Chen*Yongfeng Zhang
+Wei Zhang 0056*Jianyong Wang
+Jianyong Wang*Jianhua Yin
+Flavio Chierichetti*Ravi Kumar 0001
+Ravi Kumar 0001*Andrew Tomkins
+Ravi Kumar 0001*Sergei Vassilvitskii
+Alessio Conte*Roberto Grossi
+Alessio Conte*Andrea Marino
+Daniel Silva*Yuan Wang
+Yuan Wang*Yalou Huang
+a*rnkranz
+Jen J. Gong*John V. Guttag
+John V. Guttag*Davis W. Blalock
+Xiaohui Yu*Meng Chen
+Xiaohui Yu*Yang Liu 0008
+é*Jayant Kalagnanam
+é*Dzung T. Phan
+Chen Zhang*Changying Du
+Chen Zhang*Hao Wang
+Yijun Wang*Can Chen
+Changying Du*Hongzhi Yin
+Changying Du*Hao Wang
+Changying Du*Changde Du
+Hongzhi Yin*Hao Wang
+Hongzhi Yin*Yan Zhang 0036
+Hongzhi Yin*Guowu Yang
+Hongzhi Yin*Weiqing Wang
+Hongzhi Yin*Xiaofang Zhou
+Hongzhi Yin*Hongxu Chen
+Hongzhi Yin*Xue Li
+Hongzhi Yin*Qinyong Wang
+Hongzhi Yin*Tong Chen
+Hao Wang*Hongxu Chen
+Hao Wang*Xue Li
+Timothy Nugent*Jochen L. Leidner
+Armineh Nourbakhsh*Sameena Shah
+Tingjin Luo*Guangtao Wang
+Yang Yang*Yi-Feng Wu
+Yang Yang*De-Chuan Zhan
+Yang Yang*Yuan Jiang 0001
+Albrecht Zimmermann*milleux
+Jianqiang Shen*Sahin Cem Geyik
+Samet Ayhan*Hanan Samet
+Angela D. Wilkins*Benjamin J. Bachman
+Angela D. Wilkins*Peter J. Haas
+Angela D. Wilkins*Jacques J. Labrie
+Angela D. Wilkins*Sam Regenbogen
+Angela D. Wilkins*Curtis R. Pickering
+Angela D. Wilkins*Andreas Martin Lisewski
+Angela D. Wilkins*Ana Lelescu
+Angela D. Wilkins*Ying Chen 0001
+Angela D. Wilkins*Lawrence A. Donehower
+Angela D. Wilkins*W. Scott Spangler
+Angela D. Wilkins*Olivier Lichtarge
+Benjamin J. Bachman*Peter J. Haas
+Benjamin J. Bachman*Jacques J. Labrie
+Benjamin J. Bachman*Sam Regenbogen
+Benjamin J. Bachman*Curtis R. Pickering
+Benjamin J. Bachman*Andreas Martin Lisewski
+Benjamin J. Bachman*Ana Lelescu
+Benjamin J. Bachman*Ying Chen 0001
+Benjamin J. Bachman*Lawrence A. Donehower
+Benjamin J. Bachman*W. Scott Spangler
+Benjamin J. Bachman*Olivier Lichtarge
+Peter J. Haas*Jacques J. Labrie
+Peter J. Haas*Sam Regenbogen
+Peter J. Haas*Curtis R. Pickering
+Peter J. Haas*Andreas Martin Lisewski
+Peter J. Haas*Ana Lelescu
+Peter J. Haas*Ying Chen 0001
+Peter J. Haas*Lawrence A. Donehower
+Peter J. Haas*W. Scott Spangler
+Peter J. Haas*Olivier Lichtarge
+Jacques J. Labrie*Sam Regenbogen
+Jacques J. Labrie*Curtis R. Pickering
+Jacques J. Labrie*Andreas Martin Lisewski
+Jacques J. Labrie*Ana Lelescu
+Jacques J. Labrie*Ying Chen 0001
+Jacques J. Labrie*Lawrence A. Donehower
+Jacques J. Labrie*W. Scott Spangler
+Jacques J. Labrie*Olivier Lichtarge
+Sam Regenbogen*Curtis R. Pickering
+Sam Regenbogen*Andreas Martin Lisewski
+Sam Regenbogen*Ana Lelescu
+Sam Regenbogen*Ying Chen 0001
+Sam Regenbogen*Lawrence A. Donehower
+Sam Regenbogen*W. Scott Spangler
+Sam Regenbogen*Olivier Lichtarge
+Curtis R. Pickering*Andreas Martin Lisewski
+Curtis R. Pickering*Ana Lelescu
+Curtis R. Pickering*Ying Chen 0001
+Curtis R. Pickering*Lawrence A. Donehower
+Curtis R. Pickering*W. Scott Spangler
+Curtis R. Pickering*Olivier Lichtarge
+Andreas Martin Lisewski*Ana Lelescu
+Andreas Martin Lisewski*Ying Chen 0001
+Andreas Martin Lisewski*Lawrence A. Donehower
+Andreas Martin Lisewski*W. Scott Spangler
+Andreas Martin Lisewski*Olivier Lichtarge
+Ana Lelescu*Ying Chen 0001
+Ana Lelescu*Lawrence A. Donehower
+Ana Lelescu*W. Scott Spangler
+Ana Lelescu*Olivier Lichtarge
+Ying Chen 0001*Lawrence A. Donehower
+Ying Chen 0001*W. Scott Spangler
+Ying Chen 0001*Olivier Lichtarge
+Lawrence A. Donehower*W. Scott Spangler
+Lawrence A. Donehower*Olivier Lichtarge
+W. Scott Spangler*Olivier Lichtarge
+Vinod Nair*Ameya Raul
+Vinod Nair*Shwetabh Khanduja
+Vinod Nair*S. Sathiya Keerthi
+Ameya Raul*Shwetabh Khanduja
+Ameya Raul*S. Sathiya Keerthi
+Shwetabh Khanduja*S. Sathiya Keerthi
+Agma Juci Machado Traina*Caetano Traina Jr.
+Xin Zhang*Jiajun Cheng
+Xin Zhang*Pei Li 0001
+Xin Zhang*Hui Wang 0030
+Michael Bendersky*Lluis Garcia Pueyo
+Michael Bendersky*Sujith Ravi
+Michael Bendersky*Xuanhui Wang
+Michael Bendersky*Donald Metzler
+Michael Bendersky*Marc Najork
+Lian Duan*Yanchi Liu
+fle*Klaus Arthur Schmid
+fle*Matthias Renz
+Klaus Arthur Schmid*Matthias Renz
+Shan You*Chao Xu 0006
+Chang Xu 0002*Chao Xu 0006
+Chao Xu 0006*Chang Xu
+goire Jauvion*Nicolas Grislain
+Himanshu Jain*Manik Varma
+Yashoteja Prabhu*Manik Varma
+Arnold P. Boedihardjo*Xuchao Zhang
+Yukino Baba*Hisashi Kashima
+Hisashi Kashima*Naonori Ueda
+Masaru Kitsuregawa*Daisaku Yokoyama
+Masaru Kitsuregawa*Masashi Toyoda
+Sen Yang*Randall S. Burd
+Shashank Srikant*Varun Aggarwal
+Gabriele Tolomei*Fabrizio Silvestri
+Gabriele Tolomei*Mounia Lalmas
+Fabrizio Silvestri*Mounia Lalmas
+Kijung Shin*Jisu Kim
+Yi-Feng Wu*De-Chuan Zhan
+Yi-Feng Wu*Yuan Jiang 0001
+De-Chuan Zhan*Yuan Jiang 0001
+Alessandro Epasto*Silvio Lattanzi
+Silvio Lattanzi*Vahab S. Mirrokni
+Jiaming Shen*Brian M. Sadler
+Qiaoling Liu*Faizan Javed
+Qiaoling Liu*Josh Chao
+Qiaoling Liu*Valentin Jijkoun
+Yongxin Tong*Caleb Chen Cao
+Yongxin Tong*Lei Chen 0002
+Yongxin Tong*Zimu Zhou
+Caleb Chen Cao*Lei Chen 0002
+Shaodan Zhai*Tian Xia
+Shaodan Zhai*Shaojun Wang
+Tian Xia*Shaojun Wang
+Alejandro Mottini*Rodrigo Acuna-Agost
+Christopher Krauss*Stefan Arbanowski
+Yan Zhang 0036*Guowu Yang
+Zheng Wang*Kun Fu
+Tristan Naumann*Peter Szolovits
+Maria Daltayanni*Luca de Alfaro
+Tanmoy Chakraborty 0002*Pawan Goyal
+Tanmoy Chakraborty 0002*Animesh Mukherjee 0001
+Tanmoy Chakraborty 0002*Niloy Ganguly
+Pawan Goyal*Animesh Mukherjee 0001
+Pawan Goyal*Mayank Singh 0001
+Animesh Mukherjee 0001*Niloy Ganguly
+Animesh Mukherjee 0001*Mayank Singh 0001
+Dafna Shahaf*Tom Hope
+Fangbo Tao*Xiusi Chen
+Samah J. Fodeh*Aditya Tiwari
+Hsun-Ping Hsieh*Shou-De Lin
+Hsun-Ping Hsieh*Cheng-Te Li
+Shou-De Lin*How Jing
+Shichen Liu*Wenwu Ou
+Jiebo Luo*Jianbo Yuan
+Jiebo Luo*Quanzeng You
+Jiebo Luo*Tianran Hu
+Xiaoming Sun*Jialin Zhang
+Jie Bao 0003*Tianfu He
+Jie Bao 0003*Sijie Ruan
+Jie Bao 0003*Yanhua Li
+Tianfu He*Sijie Ruan
+Tianfu He*Yanhua Li
+Sijie Ruan*Yanhua Li
+Yanhua Li*Jun Luo
+Yanhua Li*Ke Deng
+Qiang Ma*Zhen Xia
+Qiang Ma*Datong Chen
+Zhen Xia*Datong Chen
+Martin Ester*Jiajun Bu
+Martin Ester*Can Wang 0001
+Martin Ester*Yao Wu
+Martin Ester*Bo Hu
+Huan Zhao*Dik Lun Lee
+Huan Zhao*Quanming Yao
+Dik Lun Lee*Quanming Yao
+Sharad Nandanwar*M. Narasimha Murty
+Albert Bifet*Jianfeng Qian
+Albert Bifet*Gianmarco De Francisci Morales
+Albert Bifet*Jesse Read
+Albert Bifet*Latifur Khan
+Albert Bifet*Talel Abdessalem
+Shuai Wang*Geli Fei
+Elizabeth Searles*Michael Thompson
+Ling Chen*Guansong Pang
+Xiaofang Zhou*Wen-Chih Peng
+Hongxu Chen*Xue Li
+Hongxu Chen*Tong Chen
+Xue Li*Sanad Al-Maskari
+Xue Li*Ibrahim A. Ibrahim
+Xue Li*Xin Zhao
+Xue Li*Tong Chen
+Xue Li*Yanjun Zhang
+Yelong Shen*Jianfeng Gao
+Jingchao Ni*Xiang Zhang 0001
+Shipeng Yu*Shaunak Chatterjee
+Qiming Huang*Michael Zhu
+Nick G. Duffield*Nesreen K. Ahmed
+Nick G. Duffield*Jennifer Neville
+Yeming Shi*Claudia Perlich
+Claudia Perlich*Melinda Han Williams
+Claudia Perlich*Brian Dalessandro
+Claudia Perlich*Foster J. Provost
+Melinda Han Williams*Brian Dalessandro
+Melinda Han Williams*Foster J. Provost
+Lingfei Wu*Ian En-Hsu Yen
+Lingfei Wu*Pin-Yu Chen
+Alexander Rasin*Jacob D. Furst
+Jacob D. Furst*Daniela Stan Raicu
+Daniela Raicu*Jonathan Gemmell
+Roberto Grossi*Andrea Marino
+t*Alban Siffer
+t*Pierre-Alain Fouque
+t*Alexandre Termier
+Thomas Vandal*Evan Kodra
+Thomas Vandal*Sangram Ganguly
+Thomas Vandal*Ramakrishna R. Nemani
+Thomas Vandal*Auroop R. Ganguly
+Evan Kodra*Sangram Ganguly
+Evan Kodra*Ramakrishna R. Nemani
+Evan Kodra*Auroop R. Ganguly
+Sangram Ganguly*Andrew R. Michaelis
+Sangram Ganguly*Ramakrishna R. Nemani
+Sangram Ganguly*Auroop R. Ganguly
+Andrew R. Michaelis*Ramakrishna R. Nemani
+Andrew R. Michaelis*Auroop R. Ganguly
+Ramakrishna R. Nemani*Auroop R. Ganguly
+MohammadHossein Bateni*Vahab S. Mirrokni
+Kai Fan*Katherine A. Heller
+cs*Claude Castelluccia
+Rong Jin*Qi Qian
+Rong Jin*Shenghuo Zhu
+Sujith Ravi*Balint Miklos
+Sujith Ravi*Vivek Ramavajjala
+Andrew Tomkins*Sergei Vassilvitskii
+Simon Fong*Raymond K. Wong
+Ying Shan*Jian Jiao
+Ying Shan*Dong Yu
+Ying Shan*J. C. Mao
+Ying Shan*Jie Zhu
+Jian Jiao*J. C. Mao
+Dong Yu*J. C. Mao
+J. C. Mao*Jie Zhu
+Crystal Cody*Lauren Haynes
+Hongning Wang*Lin Gong
+Wush Chi-Hsuan Wu*Mi-Yen Yeh
+Nesreen K. Ahmed*Jennifer Neville
+Nesreen K. Ahmed*Theodore L. Willke
+Nesreen K. Ahmed*Ryan A. Rossi
+Jennifer Neville*Joseph J. Pfeiffer III
+Jennifer Neville*n Moreno
+Parang Saraf*Sathappan Muthiah
+Parang Saraf*Nathan Self
+Parang Saraf*Achla Marathe
+Parang Saraf*Kristen Maria Summers
+Parang Saraf*Graham Katz
+Parang Saraf*Andy Doyle
+Parang Saraf*Jaime Arredondo
+Parang Saraf*David Mares
+Petko Bogdanov*Daniel J. DiTursi
+Foster J. Provost*Brian Dalessandro
+Jefrey Lijffijt*Tijl De Bie
+m*Henrik Linusson
+m*Ulf Johansson
+Sayan Ranu*Prithu Banerjee
+Wenlin Chen*Yixin Chen
+Wenlin Chen*Kilian Q. Weinberger
+Yixin Chen*Kilian Q. Weinberger
+Mia Mao*Siim Viidu
+Masashi Toyoda*Daisaku Yokoyama
+Alban Siffer*Pierre-Alain Fouque
+Alban Siffer*Alexandre Termier
+Pierre-Alain Fouque*Alexandre Termier
+Alexandre Termier*Miguel Santana
+Smriti Bhagat*Wei Lu 0002
+Xun Zheng*Yaoliang Yu
+Yi Liu*Huakang Li
+Dingxiong Deng*Linhong Zhu
+Sathappan Muthiah*Nathan Self
+Sathappan Muthiah*Achla Marathe
+Sathappan Muthiah*Kristen Maria Summers
+Sathappan Muthiah*Graham Katz
+Sathappan Muthiah*Andy Doyle
+Sathappan Muthiah*Jaime Arredondo
+Sathappan Muthiah*David Mares
+Nathan Self*Achla Marathe
+Nathan Self*Kristen Maria Summers
+Nathan Self*Graham Katz
+Nathan Self*Andy Doyle
+Nathan Self*Jaime Arredondo
+Nathan Self*David Mares
+Achla Marathe*Kristen Maria Summers
+Achla Marathe*Graham Katz
+Achla Marathe*Andy Doyle
+Achla Marathe*Jaime Arredondo
+Achla Marathe*David Mares
+Kristen Maria Summers*Graham Katz
+Kristen Maria Summers*Andy Doyle
+Kristen Maria Summers*Jaime Arredondo
+Kristen Maria Summers*David Mares
+Graham Katz*Andy Doyle
+Graham Katz*Jaime Arredondo
+Graham Katz*David Mares
+Andy Doyle*Jaime Arredondo
+Andy Doyle*David Mares
+Jaime Arredondo*David Mares
+Ryen W. White*Ahmed Hassan Awadallah
+Keli Xiao*Zeyang Ye
+Keli Xiao*Yuefan Deng
+Wei Ye*Dominik Mautz
+Moshe Gabel*Daniel Keren
+Moshe Gabel*Assaf Schuster
+Daniel Keren*Assaf Schuster
+Junxian He*Ying Huang
+Chen Luo*Wei Pang
+Chen Luo*Zhe Wang 0007
+Alan Fern*Thomas G. Dietterich
+Yang Zhou 0001*Ling Liu 0001
+Kui Yu*Wei Ding 0003
+Kui Yu*Xindong Wu 0001
+Dawei Wang*Wei Ding 0003
+Wei Ding 0003*Xindong Wu 0001
+Wei Ding 0003*Ping Chen 0001
+Xindong Wu 0001*Lei Li 0002
+Xindong Wu 0001*Fei Xie
+Kevin Murphy 0002*Wei Zhang
+Burkay Orten*Shahriar Shariat
+Jayant Kalagnanam*Dzung T. Phan
+Ichiro Takeuchi*Masayuki Karasuyama
+Biwei Huang*Kun Zhang 0001
+Biwei Huang*Clark Glymour
+Kun Zhang 0001*Clark Glymour
+Wen-Chih Peng*Yu Ting Wen
+Wen-Chih Peng*Gunarto Sindoro Njoo
+Wen-Chih Peng*Yi-Cheng Chen
+Nathan Liu*Suju Rajan
+Josep Lluis Berral*s Poggi
+Seyyed Abbas Hosseini*Ali Khodadadi
+Seyyed Abbas Hosseini*Ali Arabzadeh
+Seyyed Abbas Hosseini*Hamid R. Rabiee
+Ali Khodadadi*Ali Arabzadeh
+Ali Khodadadi*Hamid R. Rabiee
+Ali Arabzadeh*Hamid R. Rabiee
+Xiaoming Li*Weizheng Chen
+Xiaoming Li*Yan Zhang
+Xiaoming Li*Zhuoxuan Jiang
+Hsuan-Tien Lin*Kuan-Hao Huang
+Mengnan Du*Ninghao Liu
+Huang Xu*Zhiwen Yu 0001
+Di Niu*Bang Liu
+Di Niu*Borislav Mavrin
+Di Niu*Linglong Kong
+Kan Ren*Yong Yu 0001
+Kan Ren*Han Cai
+Yong Yu 0001*Han Cai
+Sandeep Tata*Marc Najork
+Marc Najork*Xuanhui Wang
+Marc Najork*Donald Metzler
+Khanh Nguyen*Trung Le
+Khanh Nguyen*Vu Nguyen 0001
+Trung Le*Vu Nguyen 0001
+Xiuwen Yi*Tianrui Li
+Bin Bi*Junghoo Cho
+Zhe Chen*Michael J. Cafarella
+Quanming Yao*James T. Kwok
+Gianmarco De Francisci Morales*Kiran Garimella
+Bowen Du*Wenjun Zhou
+Wenqing Hu*Haoyi Xiong
+Wenqing Hu*Zhishan Guo
+Chanhyun Kang*V. S. Subrahmanian
+V. S. Subrahmanian*Srijan Kumar
+V. S. Subrahmanian*Francesca Spezzano
+V. S. Subrahmanian*Noseong Park
+Matthew Malloy*Paul Barford
+Matthew Malloy*Enis Ceyhun Alp
+Paul Barford*Enis Ceyhun Alp
+Jia Zeng*Xiaosheng Liu
+Jia Zeng*Jianfeng Yan
+Liangda Li*Hongbo Deng
+Hongbo Deng*Jianhui Chen
+Bilong Shen*Weimin Zheng
+Kathleen M. Carley*Aman Ahuja
+Yanyan Shen*Zhaoyang Liu
+Yanyan Shen*Yanmin Zhu
+Zeyang Ye*Yuefan Deng
+Vladan Radosavljevic*Narayan Bhamidipati
+Jeffrey Fisher*Peter Christen
+Peter Christen*Erhard Rahm
+Peter Christen*Thilina Ranbaduge
+Peter Christen*Rainer Schnell
+Peter Christen*Dinusha Vatsalan
+Peter Christen*Ross W. Gayler
+Erhard Rahm*Markus Nentwig
+Wei Bian*Bo Du
+Wei Bian*Lefei Zhang
+Jean Pouget-Abadie*Edoardo M. Airoldi
+Weitao Duan*Ya Xu
+Zhaoyang Liu*Yanmin Zhu
+Qiang Fu*Rui Ding
+Xiao Yu*Urvashi Khandelwal
+Hung Le*Truyen Tran 0001
+Nemanja Spasojevic*Adithya Rao
+Nemanja Spasojevic*Prantik Bhattacharyya
+Adithya Rao*Prantik Bhattacharyya
+Quanzeng You*Jing Zhou
+Quanzeng You*Tong Sun
+Theodore L. Willke*Ryan A. Rossi
+Ryan A. Rossi*Eunyee Koh
+Jan N. van Rijn*Joaquin Vanschoren
+Srijan Kumar*Francesca Spezzano
+Jiezhong Qiu*Hao Ma
+Jiezhong Qiu*Kuansan Wang
+Hao Ma*Kuansan Wang
+Hao Ma*Bo-June Paul Hsu
+Riccardo Guidotti*Fosca Giannotti
+Riccardo Guidotti*Dino Pedreschi
+Fosca Giannotti*Dino Pedreschi
+Jacob D. Abernethy*Alex Chojnacki
+Jacob D. Abernethy*Arya Farahi
+Jacob D. Abernethy*Eric Schwartz
+Jacob D. Abernethy*Jared Webb
+Alex Chojnacki*Arya Farahi
+Alex Chojnacki*Eric Schwartz
+Alex Chojnacki*Jared Webb
+Arya Farahi*Eric Schwartz
+Arya Farahi*Jared Webb
+Eric Schwartz*Jared Webb
+Latifur Khan*Ahsanul Haque
+Latifur Khan*Swarup Chandra
+Vincent S. Tseng*Philippe Fournier-Viger
+Vincent S. Tseng*Cheng-Wei Wu
+Gilbert Badaro*Hazem M. Hajj
+Gilbert Badaro*Ali Haddad
+Gilbert Badaro*Wassim El-Hajj
+Gilbert Badaro*Khaled Bashir Shaban
+Hazem M. Hajj*Ali Haddad
+Hazem M. Hajj*Wassim El-Hajj
+Hazem M. Hajj*Khaled Bashir Shaban
+Ali Haddad*Wassim El-Hajj
+Ali Haddad*Khaled Bashir Shaban
+Wassim El-Hajj*Khaled Bashir Shaban
+Mohammad Mahdian*Sergei Vassilvitskii
+Christos Anagnostopoulos*Peter Triantafillou
+Hao Wang 0005*Qinyong Wang
+Hao Wang 0005*Chen Zhang 0003
+Bin Tong*Makoto Iwayama
+Bin Tong*Yoshiyuki Kobayashi
+Bin Tong*Anshuman Sahu
+Bin Tong*Ravigopal Vennelakanti
+Makoto Iwayama*Yoshiyuki Kobayashi
+Makoto Iwayama*Anshuman Sahu
+Makoto Iwayama*Ravigopal Vennelakanti
+Yoshiyuki Kobayashi*Anshuman Sahu
+Yoshiyuki Kobayashi*Ravigopal Vennelakanti
+Anshuman Sahu*Ravigopal Vennelakanti
+Qi Qian*Shenghuo Zhu
+Kian-Lee Tan*Mo Sha 0002
+Kian-Lee Tan*Yuchen Li
+Jingyuan Wang*Zhang Xiong
+Yisong Yue*Iain A. Matthews
+Yisong Yue*Peter Carr 0001
+Yisong Yue*Alina Bialkowski
+Yisong Yue*Sridha Sridharan
+Iain A. Matthews*Peter Carr 0001
+Iain A. Matthews*Alina Bialkowski
+Iain A. Matthews*Sridha Sridharan
+Peter Carr 0001*Sridha Sridharan
+Peter Carr 0001*Alina Bialkowski
+Sridha Sridharan*Alina Bialkowski
+Huayu Wu 0001*Wee Siong Ng
+Huayu Wu 0001*Dongxu Shao
+Marco Bressan 0002*Stefano Leucci 0001
+Marco Bressan 0002*Alessandro Panconesi
+Stefano Leucci 0001*Alessandro Panconesi
+Adi Omari*Eran Yahav
+Adi Omari*Sharon Shoham
+Eran Yahav*Sharon Shoham
+Xiaokui Xiao*Ning Chen
+Xiaokui Xiao*Shaohua Li
+Hakan Ferhatosmanoglu*Bahaeddin Eravci
+Qinglong Wang*Wenbo Guo
+Qinglong Wang*Kaixuan Zhang
+Qinglong Wang*Alexander G. Ororbia II
+Qinglong Wang*Xinyu Xing
+Qinglong Wang*Xue Liu
+Wenbo Guo*Kaixuan Zhang
+Wenbo Guo*Alexander G. Ororbia II
+Wenbo Guo*Xinyu Xing
+Wenbo Guo*Xue Liu
+Kaixuan Zhang*Alexander G. Ororbia II
+Kaixuan Zhang*Xinyu Xing
+Kaixuan Zhang*Xue Liu
+Alexander G. Ororbia II*Xinyu Xing
+Alexander G. Ororbia II*Xue Liu
+Xinyu Xing*Xue Liu
+Rui Liu*Senjuti Basu Roy
+Rui Liu*Ankur Teredesai
+Rui Liu*Kiyana Zolfaghar
+Rui Liu*David Hazel
+Rui Liu*Si-Chi Chin
+John C. S. Lui*Hong Xie 0004
+Adam Jatowt*Shoko Wakamiya
+Adam Jatowt*Yukiko Kawai
+Adam Jatowt*Haitao Yu
+Adam Jatowt*Hideo Joho
+Adam Jatowt*Joemon M. Jose
+Adam Jatowt*Long Chen 0008
+Shoko Wakamiya*Yukiko Kawai
+Puneet Agarwal*Gautam Shroff
+Zhifeng Bao*Sheng Wang 0007
+Zhifeng Bao*Mingzhao Li 0001
+Zhifeng Bao*Farhana Murtaza Choudhury
+Zhifeng Bao*Timos Sellis
+Yuchen Li*Mo Sha 0002
+Stergios Stergiou*Kostas Tsioutsiouliklis
+Josh Chao*Valentin Jijkoun
+Takeshi Kurashima*Hiroshi Sawada
+Senjuti Basu Roy*Ankur Teredesai
+Senjuti Basu Roy*Kiyana Zolfaghar
+Senjuti Basu Roy*David Hazel
+Senjuti Basu Roy*Si-Chi Chin
+Ankur Teredesai*Kiyana Zolfaghar
+Ankur Teredesai*David Hazel
+Ankur Teredesai*Stacey Newman
+Kiyana Zolfaghar*David Hazel
+Kiyana Zolfaghar*Si-Chi Chin
+David Hazel*Stacey Newman
+Jiezhang Cao*Mingkui Tan
+Ji Wang*Jianguo Zhang
+Heli Sun*Hongxia Du
+Heli Sun*Jianbin Huang
+Hongxia Du*Jianbin Huang
+Jun Luo*Chao Li
+Jun Luo*Xin Wang
+Xin Wang*Yunhui Guo
+Xin Wang*Congfu Xu
+Xin Wang*Seyyed Mohammadreza Rahimi
+Richi Nayak*Noor Ifada
+Abdelkader Ouali*Yahia Lebbah
+Abdelkader Ouali*Samir Loudni
+Yahia Lebbah*Samir Loudni
+Nguyen Thanh Tung*Imran Khan 0003
+Nguyen Thanh Tung*Graham J. Williams
+Imran Khan 0003*Graham J. Williams
+Mojgan Ghanavati*Raymond K. Wong
+Raymond K. Wong*Mohammad Ebrahimi
+Raymond K. Wong*Elaheh ShafieiBavani
+Qinmin Hu*Liang He 0001
+Yao Wan*Liang Chen 0001
+Yao Wan*Jian Wu 0001
+Liang Chen 0001*Tingting Liang
+Liang Chen 0001*Jian Wu 0001
+Liang Chen 0001*Haochao Ying
+Tingting Liang*Jian Wu 0001
+Jian Wu 0001*Haochao Ying
+Khoat Than*Ngo Van Linh
+Shan-Yun Teng*Kun-Ta Chuang
+Kun-Ta Chuang*Lo Pang-Yun Ting
+Kun-Ta Chuang*Chien-Wei Chang
+Vu Nguyen 0001*Sunil Gupta
+Vu Nguyen 0001*Cheng Li 0003
+Vasudeva Varma*Vaibhav Kumar
+Vasudeva Varma*Dhruv Khattar
+Vasudeva Varma*Shashank Gupta 0001
+Siyuan Liu*Shuhui Wang
+Shuhui Wang*Qingming Huang
+Pei-Yuan Zhou*Keith C. C. Chan
+Kouzou Ohara*Masahiro Kimura
+Kouzou Ohara*Hiroshi Motoda
+Masahiro Kimura*Hiroshi Motoda
+Masahiro Kimura*Masahito Kumano
+Yongli Ren*Martin Tomko
+Kosetsu Tsukuda*Masataka Goto
+Abdelhamid Boudane*d Jabbour
+Abdelhamid Boudane*Lakhdar Sais
+Abdelhamid Boudane*Yakoub Salhi
+d Jabbour*Lakhdar Sais
+d Jabbour*Yakoub Salhi
+Lakhdar Sais*Yakoub Salhi
+Hyunsouk Cho*Seung-won Hwang
+Seung-won Hwang*Jinyoung Yeo
+Sk. Minhazul Islam*Arunava Banerjee
+Jun Long*Lei Zhu 0005
+Jun Long*Chengyuan Zhang
+Jun Long*Shuangqiao Lin
+Jun Long*Zhan Yang
+Lei Zhu 0005*Chengyuan Zhang
+Lei Zhu 0005*Shuangqiao Lin
+Lei Zhu 0005*Zhan Yang
+Chengyuan Zhang*Shuangqiao Lin
+Chengyuan Zhang*Zhan Yang
+Shuangqiao Lin*Zhan Yang
+Xianchao Zhang*Wenxin Liang
+Xianchao Zhang*Zengyou He
+Xianchao Zhang*Hong Yu
+Xianchao Zhang*Yuangang Li
+Hua Shen*Wenxin Liang
+Wenxin Liang*Zengyou He
+Wenxin Liang*Yuangang Li
+Yong Zhuang*Wei-Sheng Chin
+Yong Zhuang*Yu-Chin Juan
+Wei-Sheng Chin*Yu-Chin Juan
+Guandong Xu*Shaowu Liu
+Guandong Xu*Jun Yin
+Guandong Xu*Zili Zhou
+Xiaohui Tao*Ji Zhang
+Ji Zhang*Yonglong Luo
+Ji Zhang*Fulong Chen 0002
+Yuan He 0006*Cheng Wang 0001
+Yuan He 0006*Changjun Jiang
+Cheng Wang 0001*Changjun Jiang
+Meng Chen*Yang Liu 0008
+Xiaohuan Cao*Yuyan Zheng
+Zengchang Qin*Tao Wan
+Henrik Linusson*Ulf Johansson
+Shinjae Yoo*Dantong Yu
+Shinjae Yoo*Hong Qin
+Dantong Yu*Hong Qin
+Xin Fang*Bing Li
+Xin Fang*Wei-Hao Chang
+Bing Li*Wei-Hao Chang
+Yuxun Zhou*Dan Li
+Yuxun Zhou*Costas J. Spanos
+Dan Li*Costas J. Spanos
+Hongfang Liu*Christopher G. Chute
+Anton Slutsky*Xiaohua Hu
+Anton Slutsky*Yuan An
+Xiaohua Hu*Yuan An
+tter*Michael R. Berthold
+Yujin Tang*Shinya Wada
+Yujin Tang*Kiyohito Yoshihara
+Shinya Wada*Kiyohito Yoshihara
+Zhao Zhang*Yan Zhang
+Weizheng Chen*Yan Zhang
+Weizheng Chen*Zhuoxuan Jiang
+Thilina Ranbaduge*Rainer Schnell
+Thilina Ranbaduge*Dinusha Vatsalan
+Rainer Schnell*Christian Borgs
+Zhen Lei*Tao-Yang Fu
+Tanya Goyal*Balaji Vasan Srinivasan
+Vishwajeet Kumar*Ganesh Ramakrishnan
+Jianguang Du*Dandan Song
+Jianguang Du*Lejian Liao
+Dandan Song*Lejian Liao
+ric Flouvat*Nazha Selmaoui-Folcher
+Laurence Anthony F. Park*Glenn Stone
+Sunil Gupta*Haripriya Harikumar
+Sunil Gupta*Thin Nguyen
+Sunil Gupta*Ramachandra Kaimal
+Sunil Gupta*Cheng Li 0003
+Philippe Fournier-Viger*Youcef Djenouri
+Philippe Fournier-Viger*Jerry Chun-Wei Lin
+Philippe Fournier-Viger*Wensheng Gan
+Yaowei Yan*Dongsheng Luo
+Shaowu Liu*Jun Yin
+Shaowu Liu*Zili Zhou
+Phan Duy Nhat*Hoai An Le Thi
+Jiaqi Ge*Yuni Xia
+Jiaqi Ge*Jian Wang
+Yuni Xia*Jian Wang
+Yu-Lin He*Xizhao Wang
+Lin Liu 0003*Jixue Liu
+Lin Liu 0003*Jiuyong Li
+Jixue Liu*Jiuyong Li
+Yaogong Zhang*Xiaohu Liu
+Yaogong Zhang*Xin Fan
+Xiaohu Liu*Xin Fan
+Youcef Djenouri*Jerry Chun-Wei Lin
+Youcef Djenouri*Djamel Djenouri
+Youcef Djenouri*Marco Comuzzi
+Jerry Chun-Wei Lin*Wensheng Gan
+Yi-Cheng Chen*Julia Tzu-Ya Weng
+Yi-Cheng Chen*Pei-Chann Chang
+Ibrahim A. Ibrahim*Xin Zhao
+Xin Zhao*Yanjun Zhang
+Prerna Agarwal*Richa Verma
+Richard Kyle MacKinnon*Carson Kai-Sang Leung
+Carson Kai-Sang Leung*Fan Jiang 0001
+Ke Deng*Jianxin Li
+Haripriya Harikumar*Thin Nguyen
+Haripriya Harikumar*Ramachandra Kaimal
+Thin Nguyen*Ramachandra Kaimal
+Tianqing Zhu*Ping Xiong
+Shenghua Liu*Xueqi Cheng
+Xueqi Cheng*Huawei Shen
+Xueqi Cheng*Xiaolong Jin
+Xueqi Cheng*Jiafeng Guo
+Xueqi Cheng*Yanyan Lan
+Lan Huang*Wei Pang
+Wei Pang*Zhe Wang 0007
+Mingxin Liang*Chao Gao
+Mingxin Liang*Xianghua Li
+Chao Gao*Xianghua Li
+Jun Yin*Zili Zhou
+Minoru Yoshida*Kazuyuki Matsumoto
+Minoru Yoshida*Kenji Kita
+Kazuyuki Matsumoto*Kenji Kita
+Yun Sing Koh*Gillian Dobbie
+Yun Sing Koh*David Tse Jung Huang
+Yun Sing Koh*Russel Pears
+Gillian Dobbie*David Tse Jung Huang
+Gillian Dobbie*Russel Pears
+Shuhan Yuan*Yang Xiang
+Girish Keshav Palshikar*Rajiv Srivastava
+Yunhui Guo*Congfu Xu
+Yonglong Luo*Fulong Chen 0002
+Furao Shen*Jinxi Zhao
+Yidong Li*Hong Shen 0001
+Yidong Li*Yingpeng Sang
+Yidong Li*Jun Wu 0007
+Huan-Chao Keh*Lin Hui
+Huan-Chao Keh*Yuan-Cheng Cheng
+Huan-Chao Keh*Po-Yuan Yu
+Huan-Chao Keh*Nan-Ching Huang
+Lin Hui*Yuan-Cheng Cheng
+Lin Hui*Po-Yuan Yu
+Lin Hui*Nan-Ching Huang
+Yuan-Cheng Cheng*Po-Yuan Yu
+Yuan-Cheng Cheng*Nan-Ching Huang
+Po-Yuan Yu*Nan-Ching Huang
+Yulia R. Gel*Cuneyt Gurcan Akcora
+Wei Wu 0011*Ling Chen 0006
+Wenjun Wang 0002*Pengfei Jiao
+Kamalakar Karlapalem*Mihir Shekhar
+Kamalakar Karlapalem*Lini T. Thomas
+Julia Tzu-Ya Weng*Pei-Chann Chang
+Yasha Wang*Xu Chu
+Yasha Wang*Yuanduo He
+Xu Chu*Yuanduo He
+Victor S. Sheng*Pengpeng Zhao
+Jiajun Cheng*Pei Li 0001
+Jiajun Cheng*Hui Wang 0030
+Pei Li 0001*Hui Wang 0030
+Sandya Mannarswamy*Anirban Sen
+Sandya Mannarswamy*Manjira Sinha
+Sandya Mannarswamy*Shourya Roy
+mer*Kathrin Bujna
+Bracha Shapira*Yisroel Mirsky
+Bracha Shapira*Lior Rokach
+Yuki Endo*Kyosuke Nishida
+Yuki Endo*Hiroyuki Toda
+Kyosuke Nishida*Hiroyuki Toda
+Hong Shen 0001*Hui Tian 0001
+Hong Shen 0001*Jun Wu 0007
+Hong Shen 0001*Yingpeng Sang
+Jun Wu 0007*Yingpeng Sang
+Peng Wang 0028*Peng Zhang 0001
+Peng Wang 0028*Li Guo 0001
+Peng Wang 0028*Binxing Fang
+Peng Wang 0028*Chuan Zhou
+Peng Zhang 0001*Li Guo 0001
+Peng Zhang 0001*Binxing Fang
+Peng Zhang 0001*Chuan Zhou
+Peng Zhang 0001*Qin Zhang 0011
+Peng Zhang 0001*Guodong Long
+Li Guo 0001*Binxing Fang
+Li Guo 0001*Chuan Zhou
+Li Guo 0001*Xiaofei Zhou
+Johanna Carvajal*Chris McCool
+Johanna Carvajal*Brian C. Lovell
+Johanna Carvajal*Conrad Sanderson
+Chris McCool*Brian C. Lovell
+Chris McCool*Conrad Sanderson
+Brian C. Lovell*Conrad Sanderson
+Daokun Zhang*Jie Yin
+Mohammad Ebrahimi*Elaheh ShafieiBavani
+Hanhe Lin*Brendon J. Woodford
+David Tse Jung Huang*Russel Pears
+Xiaosheng Liu*Jianfeng Yan
+Shoji Hirano*Shusaku Tsumoto
+Shusaku Tsumoto*Tomohiro Kimura
+Shusaku Tsumoto*Masumi Okuda
+Shusaku Tsumoto*Akira Yasuda
+Anirban Sen*Manjira Sinha
+Anirban Sen*Shourya Roy
+Manjira Sinha*Shourya Roy
+Qin Zhang 0011*Guodong Long
+Xiaolong Gong*Fuwei Wang
+Xiaolong Gong*Linpeng Huang
+Fuwei Wang*Linpeng Huang
+Tian Huang*Yongxin Zhu 0001
+Tian Huang*Yafei Wu
+Yongxin Zhu 0001*Yafei Wu
+Shamik Sural*Sakti Pramanik
+Shamik Sural*A. K. M. Tauhidul Islam
+Jie Lu 0001*Guangquan Zhang 0001
+Teruaki Hayashi*Yukio Ohsawa
+Tengjiao Wang*Wei Chen 0021
+Tomoki Ito*Hiroki Sakaji
+Tomoki Ito*Kota Tsubouchi
+Tomoki Ito*Kiyoshi Izumi
+Tomoki Ito*Tatsuo Yamashita
+Hiroki Sakaji*Kota Tsubouchi
+Hiroki Sakaji*Kiyoshi Izumi
+Hiroki Sakaji*Tatsuo Yamashita
+Kota Tsubouchi*Kiyoshi Izumi
+Kota Tsubouchi*Tatsuo Yamashita
+Kiyoshi Izumi*Tatsuo Yamashita
+Ruimin Hu*Wei Xiong
+Ruimin Hu*Bo Du
+Ruimin Hu*Lefei Zhang
+Yuefeng Li*Yue Xu
+Djamel Djenouri*Marco Comuzzi
+Maria Giatsoglou*Despoina Chatzakou
+Maria Giatsoglou*Athena Vakali
+Despoina Chatzakou*Athena Vakali
+Yang Wang 0023*Xuemin Lin
+Yang Wang 0023*Qing Zhang 0001
+Xuemin Lin*Qing Zhang 0001
+Qing Liao*Naiyang Guan
+Qing Liao*Qian Zhang
+Naiyang Guan*Qian Zhang
+Masafumi Oyamada*Shinji Nakadai
+Ling Huang*Chang-Dong Wang
+Linchuan Xu*Jiannong Cao
+Nguyen Lu Dang Khoa*Samir Mustapha
+Sheng Gao*Juncen Li
+Sheng Gao*Zhou Fang
+Sheng Gao*Jianxin Liao
+Bo Yang 0002*Hechang Chen
+Haitao Yu*Long Chen 0008
+Haitao Yu*Joemon M. Jose
+Haitao Yu*Fajie Yuan
+Haitao Yu*Hideo Joho
+Yisroel Mirsky*Lior Rokach
+Kevin Bouchard*bastien Gaboury
+Kevin Bouchard*Bruno Bouchard 0001
+bastien Gaboury*Bruno Bouchard 0001
+Jinma Guo*Shifeng Zhang
+Jinma Guo*Jianmin Li
+Shifeng Zhang*Jianmin Li
+Jing Li*Huiyuan Chen
+Shuang Ao*Charles X. Ling
+Xiang Li 0012*Charles X. Ling
+Tim Oates*Karan Kumar Budhraja
+Robert West 0001*Leila Zia
+Nick Craswell*Bhaskar Mitra
+Ricardo A. Baeza-Yates*Berkant Barla Cambazoglu
+Nan Zhang 0004*Gautam Das 0001
+Roi Blanco*J. Shane Culpepper
+Faezeh Ensan*Ebrahim Bagheri
+Dan Pelleg*Ido Guy
+Sungchul Kim*Eunyee Koh
+Ruihua Song*Tetsuya Sakai
+Xin Liu 0020*Tsuyoshi Murata
+Timos Sellis*Mingzhao Li 0001
+Timos Sellis*Farhana Murtaza Choudhury
+Longqi Yang*Deborah Estrin
+Ahmed Hassan Awadallah*Susan T. Dumais
+Jiafeng Guo*Yanyan Lan
+Jiyin He*Min Zhang 0006
+Jiyin He*Shaoping Ma
+Min Zhang 0006*Shaoping Ma
+Shaoping Ma*Min Zhang
+Xuanhui Wang*Donald Metzler
+Fajie Yuan*Joemon M. Jose
+Fajie Yuan*Long Chen 0008
+Joemon M. Jose*Long Chen 0008
+Joemon M. Jose*Hideo Joho
+Marie-Francine Moens*Susana Zoghbi
+Pengyuan Wang*Jian Yang
+Matt Crane*J. Shane Culpepper
+Matt Crane*Joel Mackenzie
+J. Shane Culpepper*Joel Mackenzie
+vio Martins*es
+vio Martins*Jamie Callan
+es*Jamie Callan
+Nicola Tonellotto*Craig Macdonald
+Wei Wu 0014*Ming Zhou 0001
+Avishek Anand*Jaspreet Singh
+Saehan Jo*Jaemin Yoo
+Chuhan Wu*Fangzhao Wu
+Chuhan Wu*Junxin Liu
+Chuhan Wu*Yongfeng Huang
+Chuhan Wu*Zhigang Yuan
+Fangzhao Wu*Junxin Liu
+Fangzhao Wu*Yongfeng Huang
+Fangzhao Wu*Zhigang Yuan
+Junxin Liu*Yongfeng Huang
+Junxin Liu*Zhigang Yuan
+Yongfeng Huang*Zhigang Yuan
+Liane Lewin-Eytan*Dotan Di Castro
+Liane Lewin-Eytan*Yoelle Maarek
+Farshad Kooti*Luca Maria Aiello
+Simon Bourigault*Sylvain Lamprier
+Simon Bourigault*Patrick Gallinari
+Sylvain Lamprier*Patrick Gallinari
+Ludovic Denoyer*Patrick Gallinari
+Matthias Petri*Alistair Moffat
+rgio D. Canuto*alves
+Ning Chen*Shaohua Li
+Long Chen 0008*Hideo Joho
+Jun Huang*Wei Chu
+Jun Huang*Haiqing Chen
+Haiqing Chen*Feng Ji
+Zhengshen Jiang*Hongzhi Liu
+Zhengshen Jiang*Zhonghai Wu
+Hongzhi Liu*Zhonghai Wu
+Brian D. Davison 0001*Bin Cao 0001
+Brian D. Davison 0001*Jian-Tao Sun
+Oana Denisa Balalau*Mauro Sozio
+Dotan Di Castro*Yoelle Maarek
+Sourav S. Bhowmick*Huey-Eng Chua
+Sourav S. Bhowmick*C. Forbes Dewey Jr.
+Chunyan Feng*Caili Guo
+Chunyan Feng*Yunfei Chu
+Chunyan Feng*Jenq-Neng Hwang
+Caili Guo*Yunfei Chu
+Caili Guo*Jenq-Neng Hwang
+Yunfei Chu*Jenq-Neng Hwang
+Gong Cheng*Yuzhong Qu
+me Kunegis*Steffen Staab
+Jingjing Wang*Min Li
+Jingjing Wang*Xiaolong Wang 0009
+Irwin King*Michael R. Lyu
+Bin Cao 0001*Jian-Tao Sun
+Mingzhao Li 0001*Farhana Murtaza Choudhury
+Aron Culotta*Ehsan Mohammady Ardehaly
+Shimon Whiteson*Masrour Zoghi
+Jitendra Kumar*William W. Hargrove
+Jitendra Kumar*Forrest M. Hoffman
+Jitendra Kumar*Zachary L. Langford
+William W. Hargrove*Forrest M. Hoffman
+Forrest M. Hoffman*Zachary L. Langford
+Feng Wang*Li Kuang
+Feng Wang*Zhijie Li
+Feng Wang*Yuanxiang Li
+Sakti Pramanik*A. K. M. Tauhidul Islam
+Mihhail Matskin*Nima Dokoohaki
+Antonio Liotta*Wei Song 0007
+Antonio Liotta*Dongmei Huang
+Cedric De Boom*Steven Van Canneyt
+Cedric De Boom*Bart Dhoedt
+Steven Van Canneyt*Bart Dhoedt
+Yi Cui*Di Xiao
+Yi Cui*Dmitri Loguinov
+Di Xiao*Dmitri Loguinov
+Yizhe Zhang*Ricardo Henao
+Qingming Huang*Jun Huang 0003
+Qingming Huang*Guorong Li
+Zhaojing Zhang*Dong Liang
+Zhaojing Zhang*Hao Jin
+Dong Liang*Hao Jin
+Yuemeng Li*Aidong Lu
+Aidong Lu*Leting Wu
+Noriyuki Kushiro*Yusuke Aoyama
+Chin-Chia Michael Yeh*Yan Zhu 0014
+Chin-Chia Michael Yeh*Yifei Ding
+Chin-Chia Michael Yeh*Zachary Zimmerman
+Chin-Chia Michael Yeh*Kaveh Kamgar
+Haoyi Xiong*Zhishan Guo
+Rafal A. Angryk*Berkay Aydin
+Thomas Lansdall-Welfare*Fabon Dzogang
+Thomas Lansdall-Welfare*Nello Cristianini
+Fabon Dzogang*Nello Cristianini
+Yingjie Tian*Zhiquan Qi
+Yingjie Tian*Lingfeng Niu
+Yingjie Tian*Yong Shi
+Lei Li 0002*Guanfeng Liu
+Alexey Artemov*Evgeny Burnaev
+Alexey Artemov*Maksim Sharaev
+Alexey Artemov*Ekaterina Kondrateva
+Alexey Artemov*Alexander Bernstein
+Evgeny Burnaev*Maksim Sharaev
+Evgeny Burnaev*Ekaterina Kondrateva
+Evgeny Burnaev*Alexander Bernstein
+Huey-Eng Chua*C. Forbes Dewey Jr.
+Girija Chetty*Rachel Davey
+Rong Zhu*Zhaonian Zou
+Rong Zhu*Jianzhong Li
+Zhaonian Zou*Jianzhong Li
+Apalak Khatua*Aparup Khatua
+Ryan Moulton*Yunjiang Jiang
+Iti Chaturvedi*Erik Cambria
+Iti Chaturvedi*Rajiv Bajpai
+Iti Chaturvedi*Soujanya Poria
+Erik Cambria*Soujanya Poria
+Erik Cambria*Amir Hussain
+Anna Sapienza*Emilio Ferrara
+Prithviraj Pramanik*Subrata Nandi
+Subrata Nandi*Mousumi Saha
+Subrata Nandi*Sujoy Saha
+Mihir Shekhar*Lini T. Thomas
+Tian Guo*Nino Antulov-Fantulin
+Yang Wang 0015*Wei Zheng
+Yang Wang 0015*Hengchang Liu
+Wei Zheng*Hengchang Liu
+Limeng Cui*Fan Meng
+Limeng Cui*Yong Shi
+Zhensong Chen 0001*Yong Shi
+Fan Meng*Yong Shi
+Yong Shi*Zhiquan Qi
+Yong Shi*Lingfeng Niu
+Yong Shi*Minqiang Li
+Shuji Hao*Chi Zhang 0007
+Jie Ding*Mohammad Noshad
+Jie Ding*Vahid Tarokh
+Mohammad Noshad*Vahid Tarokh
+Wei Song 0007*Dongmei Huang
+Juncen Li*Zhou Fang
+Juncen Li*Jianxin Liao
+Zhou Fang*Jianxin Liao
+Jun Huang 0003*Guorong Li
+Yan Zhu 0014*Zachary Zimmerman
+Changchang Yin*Shilei Cao
+Changchang Yin*Xiaoyu Li
+Changchang Yin*Jishang Wei
+Shilei Cao*Xiaoyu Li
+Shilei Cao*Jishang Wei
+Xiaoyu Li*Jishang Wei
+Jun Nakamura*Masahiko Teramoto
+Jenna Marie Reps*Uwe Aickelin
+Kunal Ranjan*Lipika Dey
+Haodong Yang*Christopher C. Yang
+Alexander Bernstein*Maksim Sharaev
+Alexander Bernstein*Ekaterina Kondrateva
+Barbara Hammer*Viktor Losing
+Barbara Hammer*Heiko Wersing
+Yuta Kaneko*Katsutoshi Yada
+Michael W. Towsey*Paul Roe
+Michael W. Towsey*Jinglan Zhang
+Paul Roe*Jinglan Zhang
+Kyungmi Lee*Ickjai Lee
+Akshay Gugnani*Vinay Kumar Reddy Kasireddy
+Takako Hashimoto*Dave Shepard
+Takako Hashimoto*Tetsuji Kuboyama
+Takako Hashimoto*Kilho Shin
+Dave Shepard*Tetsuji Kuboyama
+Dave Shepard*Kilho Shin
+Tetsuji Kuboyama*Kilho Shin
+Ritvik Shrivastava*Kuntal Dey
+Ritvik Shrivastava*Saroj Kaushik
+Masumi Okuda*Akira Yasuda
+Hossein Hamooni*Nikan Chavoshi
+Philips Kokoh Prasetyo*Xavier Jayaraj Siddarth Ashok
+Yewang Chen*Lida Zhou
+Yewang Chen*Nizar Bouguila
+Lida Zhou*Nizar Bouguila
+Eric Fleury*rton Karsai
+Yiping Ke*Pengfei Wei
+Viktor Losing*Heiko Wersing
+Maitreya Natu*Vaishali P. Sadaphal
+Hugo Gualdron* F. Rodrigues Jr.
+Luca Bravi*Francesco Sambo
+Luca Bravi*Leonardo Taccari
+Luca Bravi*Matteo Simoncini
+Luca Bravi*Samuele Salti
+Luca Bravi*Alessandro Lori
+Francesco Sambo*Leonardo Taccari
+Francesco Sambo*Matteo Simoncini
+Francesco Sambo*Samuele Salti
+Francesco Sambo*Alessandro Lori
+Leonardo Taccari*Matteo Simoncini
+Leonardo Taccari*Samuele Salti
+Leonardo Taccari*Alessandro Lori
+Matteo Simoncini*Samuele Salti
+Matteo Simoncini*Alessandro Lori
+Samuele Salti*Alessandro Lori
+Maksim Sharaev*Ekaterina Kondrateva
+Silivanxay Phetsouvanh*rique E. Oggier
+Silivanxay Phetsouvanh*Anwitaman Datta
+rique E. Oggier*Anwitaman Datta
+Youssef Hmamouche*Alain Casali
+Youssef Hmamouche*Lotfi Lakhal
+Alain Casali*Lotfi Lakhal
+Nastaran Mohammadian Rad*Cesare Furlanello
+Xiang Li 0016*My T. Thai
+My T. Thai*Alan Kuhnle
+Qiaona Hu*Baoming Tang
+Lefei Zhang*Bo Du
+Lefei Zhang*Wei Xiong
+Bo Du*Wei Xiong
+Kuntal Dey*Saroj Kaushik
+Xiang Li 0028*Suchi Qian
+Xiang Li 0028*Furong Peng
+Suchi Qian*Furong Peng
+Lisa Kaati*Amendra Shrestha
+Saurabh Kataria*Arvind Agarwal
+Reza Akbarinia*Florent Masseglia
+á*Anna Bou Ezzeddine
+á*Peter Laurinec
+á*derer
+Sein Minn*Michel C. Desmarais
+Bang Liu*Borislav Mavrin
+Bang Liu*Linglong Kong
+Borislav Mavrin*Linglong Kong
+Vaibhav Kumar*Dhruv Khattar
+Vaibhav Kumar*Shashank Gupta 0001
+Dhruv Khattar*Shashank Gupta 0001
+Zhijie Li*Yuanxiang Li
+Sungrae Park*Il-Chul Moon
+Yuan-Hai Shao*Zhen Wang 0002
+Yuan-Hai Shao*Chun-Na Li
+Yuan-Hai Shao*Nai-Yang Deng
+Zhen Wang 0002*Chun-Na Li
+Zhen Wang 0002*Nai-Yang Deng
+Chun-Na Li*Nai-Yang Deng
+Vladimir Mic*David Novak
+Vladimir Mic*Pavel Zezula
+David Novak*Pavel Zezula
+Jie Xu 0001*Mihaela van der Schaar
+Eisuke Kita*Xuanang Feng
+Alessio Rossi*Enrico Perri
+Alessio Rossi*Athos Trecroci
+Alessio Rossi*Marco Savino
+Alessio Rossi*Giampietro Alberti
+Alessio Rossi*Marcello Fedon Iaia
+Enrico Perri*Athos Trecroci
+Enrico Perri*Marco Savino
+Enrico Perri*Giampietro Alberti
+Enrico Perri*Marcello Fedon Iaia
+Athos Trecroci*Marco Savino
+Athos Trecroci*Giampietro Alberti
+Athos Trecroci*Marcello Fedon Iaia
+Marco Savino*Giampietro Alberti
+Marco Savino*Marcello Fedon Iaia
+Giampietro Alberti*Marcello Fedon Iaia
+Moninder Singh*Michael Peran
+Radu State*Petko Valtchev
+Luiza Antonie*Gary William Grewal
+Luiza Antonie*Kris Inwood
+Gary William Grewal*Kris Inwood
+Zhao Zhang 0001*Weiming Jiang
