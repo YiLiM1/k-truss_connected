@@ -28,7 +28,6 @@ def find_kcct(k,C_G,P_G):
             sub_graph2=nx.Graph(sub_graph1)
             if flag == 0:
                 break
-
         for node in sub_graph2.nodes: #去除度为0的节点
             if sub_graph2.degree(node)==0:
                 print("去除顶点：",node)
@@ -87,13 +86,13 @@ if __name__ == '__main__':
 
     #read_file.read_dblp(Concept_G,Physical_G)#读取DBLP双网络
     read_file.read_protein(Concept_G,Physical_G)#读取高血压双网络
-    '''
+    ''''''
+
     print("Concept顶点:", Concept_G.number_of_nodes())
     print("Concept边数:", Concept_G.number_of_edges())
 
     print("Psysical顶点:", Physical_G.number_of_nodes())
     print("Psysical边数:", Physical_G.number_of_edges())
-    '''
 
     k=max(nx.core_number(Concept_G).values()) #k-core分解，k得最大值边界为k-core的最大值
     '''
