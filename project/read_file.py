@@ -107,3 +107,9 @@ def read_protein(Concept_G,Physical_G):
 
     Concept_G.add_nodes_from(list_same)
     Physical_G.add_nodes_from(list_same)
+
+    print("Concept顶点:", Concept_G.number_of_nodes())
+    print("Concept边数:", Concept_G.number_of_edges())
+
+    print("Psysical顶点:", Physical_G.number_of_nodes())
+    print("Psysical边数:", Physical_G.number_of_edges())
