@@ -2,6 +2,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 import read_file
+import k_truss_connected
 G=[]
 i=0
 def find_kcct(k,C_G,P_G):
@@ -96,7 +97,7 @@ if __name__ == '__main__':
     '''
 
     k=max(nx.core_number(Concept_G).values()) #k-core分解，k得最大值边界为k-core的最大值
-    '''
+    ''''''
     print("k值上边界：",k)
     while True:
         C_G = nx.Graph(Concept_G)
@@ -107,10 +108,9 @@ if __name__ == '__main__':
                 C_G.remove_node(node)
                 P_G.remove_node(node)
 
-        find_kcct(k, C_G, P_G)
+        k_truss_connected.find_kcct(k, C_G, P_G)
         if len(G) != 0:
             print("Kmax为：", k)
             break
         k -= 1
         G.clear()
-    '''

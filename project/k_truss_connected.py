@@ -46,7 +46,7 @@ def find_kcct(k,C_G,P_G):
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(sub_graph2, pos)
-            plt.savefig("../结果图片/%s-truss_%s_conceot.png" % (str(k), str(i)))
+            plt.savefig("/结果图片/%s-truss_%s_conceot.png" % (str(k), str(i)))
             plt.show()
 
             print("物理图点数:",p_sub.number_of_nodes(), "物理图边数:", p_sub.number_of_edges())
@@ -55,7 +55,7 @@ def find_kcct(k,C_G,P_G):
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(p_sub, pos)
-            plt.savefig("../结果图片/%s-truss_%s_physical.png" % (str(k), str(i)))
+            plt.savefig("/结果图片/%s-truss_%s_physical.png" % (str(k), str(i)))
             plt.show()
         else:
             for sub in nx.connected_component_subgraphs(sub_graph2):
