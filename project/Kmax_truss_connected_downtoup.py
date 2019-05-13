@@ -3,11 +3,14 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import read_file
 import k_truss_connected
+import os
 G=[]
 i=0
+path1=''
 def find_kcct(k,C_G,P_G):
     global G
     global i
+    print("k:",k)
     #print(graphs)
     if len(G)>0:
         print("存在k-cct")
@@ -46,20 +49,21 @@ def find_kcct(k,C_G,P_G):
             #print("kcct序号:",i )
             print("概念图点数:", sub_graph2.number_of_nodes(), "概念图边数:",sub_graph2.number_of_edges())
             #pos = nx.spring_layout(sub_graph2)
-            nx.draw(sub_graph2, with_labels=True, font_size=15, node_size=0, )
+            nx.draw(sub_graph2, with_labels=True, font_size=12, node_size=0, )
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(sub_graph2, pos)
-            plt.savefig("../结果图片/%s-truss_%s_conceot.png" % (str(k), str(i)))
+
+            plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_c.png") % (str(k), str(i)))
             plt.show()
 
             print("物理图点数:",p_sub.number_of_nodes(), "物理图边数:", p_sub.number_of_edges())
             #pos = nx.spring_layout(p_sub)
-            nx.draw(p_sub, with_labels=True, font_size=15, node_size=0, )
+            nx.draw(p_sub, with_labels=True, font_size=12, node_size=0, )
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(p_sub, pos)
-            plt.savefig("../结果图片/%s-truss_%s_physical.png" % (str(k), str(i)))
+            plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_p.png") % (str(k), str(i)))
             plt.show()
             return
         else:
@@ -85,8 +89,10 @@ if __name__ == '__main__':
     Physical_G.add_edges_from(l)
     '''
 
+    #read_file.read_synthetic1(Concept_G, Physical_G)  # 读取合成数据集1
+    read_file.read_synthetic2(Concept_G,Physical_G) #读取合成数据集2
     #read_file.read_dblp(Concept_G,Physical_G)#读取DBLP双网络
-    read_file.read_protein(Concept_G,Physical_G)#读取高血压双网络
+    #read_file.read_protein(Concept_G,Physical_G)#读取高血压双网络
 
     '''
     print("Concept顶点:", Concept_G.number_of_nodes())
@@ -95,22 +101,21 @@ if __name__ == '__main__':
     print("Psysical顶点:", Physical_G.number_of_nodes())
     print("Psysical边数:", Physical_G.number_of_edges())
     '''
-
-    k=max(nx.core_number(Concept_G).values()) #k-core分解，k得最大值边界为k-core的最大值
-    ''''''
-    print("k值上边界：",k)
+    path1 = os.getcwd()  # 表示当前所处的文件夹的绝对路径
+    #print(path1)
+    k=3
     while True:
         C_G = nx.Graph(Concept_G)
         P_G = nx.Graph(Physical_G)
         for node in Concept_G:  # 初步去除
             # print(node," ", Concept_G.degree(node))
-            if Concept_G.degree(node) < k - 2:
+            if Concept_G.degree(node) <k-1:
                 C_G.remove_node(node)
                 P_G.remove_node(node)
 
-        k_truss_connected.find_kcct(k, C_G, P_G)
-        if len(G) != 0:
-            print("Kmax为：", k)
+        find_kcct(k, C_G, P_G)
+        if len(G) == 0:
+            print("Kmax为：", k - 1)
             break
-        k -= 1
+        k += 1
         G.clear()

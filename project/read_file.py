@@ -113,3 +113,79 @@ def read_protein(Concept_G,Physical_G):
 
     print("Psysical顶点:", Physical_G.number_of_nodes())
     print("Psysical边数:", Physical_G.number_of_edges())
+
+def read_synthetic1(Concept_G,Physical_G):
+    path1=os.getcwd()  #表示当前所处的文件夹的绝对路径
+
+    with open(os.path.join(path1, "数据集\\synthetic1_node.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1=lines.split("\n")
+        Concept_G.add_node(list1[0])
+        Physical_G.add_node(list1[0])
+        #print(list1[0])
+    file_to_read.close()
+
+    with open(os.path.join(path1, "数据集\\synthetic1_concept_edge.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1=lines.split("*")
+        list1[1] = list1[1][0:len(list1[1])-1]
+        #print(list1[0],list1[1])
+        if list1[1] != list1[0]:
+            Concept_G.add_edge(list1[0],list1[1])
+    file_to_read.close()
+
+    with open(os.path.join(path1, "数据集\\synthetic1_physical_edge.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1 = lines.split("*")
+        list1[1]=list1[1][0:len(list1[1])-1]
+        #print(list1[0], list1[1])
+        if list1[1] != list1[0]:
+            Physical_G.add_edge(list1[0], list1[1])
+    file_to_read.close()
+
+def read_synthetic2(Concept_G,Physical_G):
+    path1=os.getcwd()  #表示当前所处的文件夹的绝对路径
+
+    with open(os.path.join(path1, "数据集\\synthetic2_node.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1=lines.split("\n")
+        Concept_G.add_node(list1[0])
+        Physical_G.add_node(list1[0])
+        #print(list1[0])
+    file_to_read.close()
+
+    with open(os.path.join(path1, "数据集\\synthetic2_concept_edge.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1=lines.split("*")
+        list1[1] = list1[1][0:len(list1[1])-1]
+        #print(list1[0],list1[1])
+        if list1[1] != list1[0]:
+            Concept_G.add_edge(list1[0],list1[1])
+    file_to_read.close()
+
+    with open(os.path.join(path1, "数据集\\synthetic2_physical_edge.text"), 'r') as file_to_read:
+      while True:
+        lines = file_to_read.readline() # 整行读取数据
+        if not lines:
+          break
+        list1 = lines.split("*")
+        list1[1]=list1[1][0:len(list1[1])-1]
+        #print(list1[0], list1[1])
+        if list1[1] != list1[0]:
+            Physical_G.add_edge(list1[0], list1[1])
+    file_to_read.close()

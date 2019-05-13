@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 import networkx as nx
 import matplotlib.pyplot as plt
+import read_file
+import os
 G=[]
 i=0
+path1=''
 def find_kcct(k,C_G,P_G):
     global G
     global i
@@ -46,7 +49,7 @@ def find_kcct(k,C_G,P_G):
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(sub_graph2, pos)
-            plt.savefig("/结果图片/%s-truss_%s_conceot.png" % (str(k), str(i)))
+            plt.savefig(os.path.join(path1, "pic_kcct\\%s-truss_%s_c.png") % (str(k), str(i)))
             plt.show()
 
             print("物理图点数:",p_sub.number_of_nodes(), "物理图边数:", p_sub.number_of_edges())
@@ -55,7 +58,7 @@ def find_kcct(k,C_G,P_G):
             # for p in pos:  # raise text positions
             # pos[p][1] += 0.07
             #nx.draw_networkx_labels(p_sub, pos)
-            plt.savefig("/结果图片/%s-truss_%s_physical.png" % (str(k), str(i)))
+            plt.savefig(os.path.join(path1, "pic_kcct\\%s-truss_%s_p.png") % (str(k), str(i)))
             plt.show()
         else:
             for sub in nx.connected_component_subgraphs(sub_graph2):
@@ -76,7 +79,7 @@ if __name__ == '__main__':
     l = [(1, 2), (4, 3), (4, 5), (5, 6),(6,7)]
     Physical_G.add_edges_from(l)
     '''
-    ''''''
+    '''
     with open('../数据集/G_node.text', 'r') as file_to_read:
       while True:
         lines = file_to_read.readline() # 整行读取数据
@@ -112,15 +115,19 @@ if __name__ == '__main__':
         if list1[1] != list1[0]:
             Physical_G.add_edge(list1[0], list1[1])
     file_to_read.close()
-
-
     '''
+    #read_file.read_dblp(Concept_G,Physical_G)#读取DBLP双网络
+    #read_file.read_protein(Concept_G, Physical_G)  # 读取高血压双网络
+    #read_file.read_synthetic1(Concept_G,Physical_G) #读取合成数据集1
+    read_file.read_synthetic2(Concept_G,Physical_G) #读取合成数据集2
+
+    ''''''
     print("Concept顶点:", Concept_G.number_of_nodes())
     print("Concept边数:", Concept_G.number_of_edges())
 
     print("Psysical顶点:", Physical_G.number_of_nodes())
     print("Psysical边数:", Physical_G.number_of_edges())
-    '''
+
     k=int(input("请输入k:"))
 
 
@@ -129,11 +136,13 @@ if __name__ == '__main__':
     C_G.node
     for node in Concept_G:  # 初步去除
         # print(node," ", Concept_G.degree(node))
-        if Concept_G.degree(node) < k - 2:
+        if Concept_G.degree(node) < k - 1:
             C_G.remove_node(node)
             P_G.remove_node(node)
-
-    find_kcct(k, C_G, P_G)
+    if k<=2:
+        print("k必须大于2")
+    else:
+        find_kcct(k, C_G, P_G)
     if len(G) == 0:
         print("未发现")
     else:
