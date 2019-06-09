@@ -59,39 +59,23 @@ def find_kcct(k,C_G,P_G):
 if __name__ == '__main__':
     Concept_G=nx.Graph()
     Physical_G=nx.Graph()
-    '''
-    l=[1,2,3,4,5,6,7]  #测试用例
-    Concept_G.add_nodes_from(l)
-    Physical_G.add_nodes_from(l)
 
-    l=[(1,2),(2,3),(3,1),(4,5),(5,6),(4,6),(3,6),(6,7),(5,7),(4,7)]
-    Concept_G.add_edges_from(l)
-    l.clear()
-    #l = [(1, 2), (2, 3), (3, 1), (4, 5), (5, 6), (4, 6)]
-    l = [(1, 2), (4, 3), (4, 5), (5, 6),(6,7)]
-    Physical_G.add_edges_from(l)
-    '''
     #read_file.read_synthetic1(Concept_G, Physical_G)#读取合成数据集1
-    #read_file.read_synthetic2(Concept_G,Physical_G)#读取合成数据集2
+    read_file.read_synthetic2(Concept_G,Physical_G)#读取合成数据集2
     #read_file.read_dblp(Concept_G,Physical_G)#读取DBLP数据集
     #read_file.read_protein(Concept_G,Physical_G)#读取蛋白质双网络
-    read_file.read_email(Concept_G, Physical_G) # 读取邮件双网络
+    #read_file.read_email(Concept_G, Physical_G) # 读取邮件双网络
     #read_file.read_facebook(Concept_G,Physical_G)# 读取facebook双网络
 
     print(nx.core_number(Concept_G).values())
     k = max(nx.core_number(Concept_G).values())  # k-core分解，k得最大值边界为k-core的最大值
     k=k+1
-    '''
-    list_edge = list(Concept_G.edges())
-    print("初始边数", len(list_edge))
-    Concept_G.remove_edges_from(list_edge)
-    random.shuffle(list_edge)
-    list_edge = list_edge[:int(0.8 * len(list_edge))]
-    print("删减边数", len(list_edge))
-    Concept_G.add_edges_from(list_edge)
-    '''
+    ''''''
     start=time.time()
     print("k值上边界：", k)
+
+
+
     while True:
         C_G = nx.Graph(Concept_G)
         P_G = nx.Graph(Physical_G)
@@ -100,6 +84,7 @@ if __name__ == '__main__':
             if Concept_G.degree(node) < k - 1:
                 C_G.remove_node(node)
                 P_G.remove_node(node)
+
 
         find_kcct(k, C_G, P_G)
         if len(G) != 0:

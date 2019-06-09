@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import read_file
 import k_truss_connected
 import os
+import time
+import random
 G=[]
 i=0
 path1=''
@@ -47,24 +49,16 @@ def find_kcct(k,C_G,P_G):
             G.append(k)
 
             #print("kcct序号:",i )
-            print("概念图点数:", sub_graph2.number_of_nodes(), "概念图边数:",sub_graph2.number_of_edges())
-            #pos = nx.spring_layout(sub_graph2)
-            nx.draw(sub_graph2, with_labels=True, font_size=12, node_size=0, )
-            # for p in pos:  # raise text positions
-            # pos[p][1] += 0.07
-            #nx.draw_networkx_labels(sub_graph2, pos)
 
-            plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_c.png") % (str(k), str(i)))
-            plt.show()
+            print("概念图点数:", sub_graph2.number_of_nodes(), "概念图边数:",sub_graph2.number_of_edges())
+            #nx.draw(sub_graph2, with_labels=True, font_size=12, node_size=0, )
+            #plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_c.png") % (str(k), str(i)))
+            #plt.show()
 
             print("物理图点数:",p_sub.number_of_nodes(), "物理图边数:", p_sub.number_of_edges())
-            #pos = nx.spring_layout(p_sub)
-            nx.draw(p_sub, with_labels=True, font_size=12, node_size=0, )
-            # for p in pos:  # raise text positions
-            # pos[p][1] += 0.07
-            #nx.draw_networkx_labels(p_sub, pos)
-            plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_p.png") % (str(k), str(i)))
-            plt.show()
+            #nx.draw(p_sub, with_labels=True, font_size=12, node_size=0, )
+            #plt.savefig(os.path.join(path1, "pic_downtoup\\%s-truss_%s_p.png") % (str(k), str(i)))
+            #plt.show()
             return
         else:
             if len(G) > 0:
@@ -90,10 +84,11 @@ if __name__ == '__main__':
     '''
 
     #read_file.read_synthetic1(Concept_G, Physical_G)  # 读取合成数据集1
-    read_file.read_synthetic2(Concept_G,Physical_G) #读取合成数据集2
+    #read_file.read_synthetic2(Concept_G,Physical_G) #读取合成数据集2
     #read_file.read_dblp(Concept_G,Physical_G)#读取DBLP双网络
-    #read_file.read_protein(Concept_G,Physical_G)#读取高血压双网络
-
+    #read_file.read_protein(Concept_G,Physical_G)#读取蛋白质双网络
+    read_file.read_email(Concept_G,Physical_G)#读取邮件双网络
+    #read_file.read_facebook(Concept_G, Physical_G)  # 读取facebook双网络
     '''
     print("Concept顶点:", Concept_G.number_of_nodes())
     print("Concept边数:", Concept_G.number_of_edges())
@@ -104,6 +99,16 @@ if __name__ == '__main__':
     path1 = os.getcwd()  # 表示当前所处的文件夹的绝对路径
     #print(path1)
     k=3
+
+    list_edge = list(Concept_G.edges())
+    print("初始边数", len(list_edge))
+    Concept_G.remove_edges_from(list_edge)
+    random.shuffle(list_edge)
+    list_edge = list_edge[:int(0.8 * len(list_edge))]
+    print("删减边数", len(list_edge))
+    Concept_G.add_edges_from(list_edge)
+    start=time.time()
+
     while True:
         C_G = nx.Graph(Concept_G)
         P_G = nx.Graph(Physical_G)
@@ -119,3 +124,5 @@ if __name__ == '__main__':
             break
         k += 1
         G.clear()
+    end=time.time()
+    print(end-start)
